@@ -1,0 +1,5 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+GBR,HMRC,Tax,,0,,GBP,64291721,Perenco UK Limited,04653066,,Extractives Report,2015-12-31,1,,17 Oct 2016
+GBR,Department of Energy & Climate Change,Fees,,0,,GBP,5089945,Perenco UK Limited,04653066,,Extractives Report,2015-12-31,1,,17 Oct 2016
+GBR,Crown Estates,Fees,,0,,GBP,1175529,Perenco UK Limited,04653066,,Extractives Report,2015-12-31,1,,17 Oct 2016
+GBR,Environment Agency,Fees,,0,,GBP,144861,Perenco UK Limited,04653066,,Extractives Report,2015-12-31,1,,17 Oct 2016

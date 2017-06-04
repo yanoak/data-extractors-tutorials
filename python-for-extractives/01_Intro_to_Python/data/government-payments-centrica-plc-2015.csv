@@ -1,0 +1,36 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+GBR,Crown Estate,Fees,,0,,GBP,504173,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR,Department of Energy & Climate Change,Fees,,0,,GBP,4281482,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR,HMRC,Tax,,0,,GBP,-10948540,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+NLD, Apeldoorn Tax authority,Tax,,0,,GBP,-6649176,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+NLD, Apeldoorn Tax authority,Fees,,0,,GBP,410771,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+NOR,Oljedirektoratet,Fees,,0,,GBP,5525758,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+NOR,Skatteetaten,Tax,,0,,GBP,128185191,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Alberta Department of Energy,Royalties,,0,,GBP,9122419,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Alberta Energy Regulator,Fees,,0,,GBP,2939142,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Alberta Petroleum Marketing Commission,Royalties,boe,80956,market price,GBP,2109647,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,BC Ministry of Finance,Tax,,0,,GBP,343834,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,BC Ministry of Finance,Royalties,,0,,GBP,2118812,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Canada Revenue Agency,Tax,,0,,GBP,7118149,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Department of Energy/Environment and Parks,Fees,,0,,GBP,1010143,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Government of Alberta,Fees,,0,,GBP,838687,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,"Minister of Finance, Ministry of Energy and Mines",Fees,,0,,GBP,856714,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,The Receiver General for Canada,Royalties,,0,,GBP,868822,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Minister Of Finance Mineral Oil & Gas Revenue Branch,Fees,,0,,GBP,190167,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Ministry of Finance Province of Alberta,Tax,,0,,GBP,5086091,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Municipal Government - Md Bighorn,Tax,,0,,GBP,551954,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Municipal Government - Rocky View,Tax,,0,,GBP,264728,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Municipal Government - Camrose,Tax,,0,,GBP,236384,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Municipal Government - Yellowhead,Tax,,0,,GBP,1123044,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Municipal Government - Clearwater,Tax,,0,,GBP,1325628,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Municipal Government - County Of Stettler,Tax,,0,,GBP,315943,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Municipal Government - Wetaskiwin,Tax,,0,,GBP,148679,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Municipal Government - Starland County,Tax,,0,,GBP,303453,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Municipal Government - BC Northern Rockies,Tax,,0,,GBP,244315,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Municipal Government - Cypress County,Tax,,0,,GBP,2079628,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Municipal Government - Ponoka County,Tax,,0,,GBP,276447,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Municipal Government - Saddle Hills,Tax,,0,,GBP,241464,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Municipal Government - Barrhead,Tax,,0,,GBP,108706,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN,Municipal Government - Tumbler Ridge,Tax,,0,,GBP,221571,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+TTO,Ministry of Energy and Energy Affairs,Fees,,0,,GBP,3131245,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+TTO,Ministry of Finance and the Economy,Tax,,0,,GBP,3127764,Centrica Plc,03033654,Settled on behalf of Centrica by Ministry of Energy and Energy Affairs to the Ministry of Finance under terms of Production Sharing Contract,Extractives Report,2015-12-31,1,,17 Nov 2016

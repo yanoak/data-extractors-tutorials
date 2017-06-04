@@ -1,0 +1,12 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+CMR,Direction Generale Des Impots,Fees,,0,,GBP,1501,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+EGY,Egyptian General Petroleum Company,Fees,,0,,GBP,385421,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+EGY,Egyptian General Petroleum Company,ProductionEntitlements,Barrels of Oil,1155822,Average sales price,GBP,38285375,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+EGY,Egyptian General Petroleum Company,Tax,Barrels of Oil,62760,Average sales price,GBP,2078858,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+NLD,Tax Office,Tax,,0,,GBP,4436983,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+NLD,Tax Office,Fees,,0,,GBP,519845,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+NOR,Petoro,Tax,,0,,GBP,-4010463,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+NOR,Skatteetaten,Tax,,0,,GBP,-14045934,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR,HMRC,Tax,,0,,GBP,-11831435,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR,DECC,Fees,,0,,GBP,660432,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR,OGA,Fees,,0,,GBP,201853,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016

@@ -1,0 +1,34 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+CMR001,Bakassi,CMR,Fees,,0,,GBP,1501,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+EGY001,South Wadi Dara,EGY,Fees,,0,,GBP,205471,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+EGY002,Dakhla 1,EGY,Fees,,0,,GBP,65436,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+EGY003,Dakhla 2,EGY,Fees,,0,,GBP,65436,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+EGY004,El Qa'a Plain,EGY,Fees,,0,,GBP,49078,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+EGY005,North Zeit Bay,EGY,ProductionEntitlements,Barrels of Oil,278890,Average sales price,GBP,9237935,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+EGY005,North Zeit Bay,EGY,Tax,Barrels of Oil,11974,Average sales price,GBP,396626,Dana Petroleum Limited,03456891,Settled on behalf of Dana Petroleum by Egyptian General Petroleum Company under the terms of the Production Sharing Contract.,Extractives Report,2015-12-31,1,,29 Nov 2016
+EGY006,East Zeit,EGY,ProductionEntitlements,Barrels of Oil,705617,Average sales price,GBP,23372813,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+EGY006,East Zeit,EGY,Tax,Barrels of Oil,50786,Average sales price,GBP,1682232,Dana Petroleum Limited,03456891,Settled on behalf of Dana Petroleum by Egyptian General Petroleum Company under the terms of the Production Sharing Contract.,Extractives Report,2015-12-31,1,,29 Nov 2016
+EGY007,South October,EGY,ProductionEntitlements,Barrels of Oil,171315,Average sales price,GBP,5674627,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+NLD001,Fo2a,NLD,Fees,,0,,GBP,170785,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+NLD002,P10a,NLD,Fees,,0,,GBP,3032,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+NLD003,P10b,NLD,Fees,,0,,GBP,55480,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+NLD004,P11b,NLD,Fees,,0,,GBP,116824,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+NLD005,P14a,NLD,Fees,,0,,GBP,27565,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+NLD006,F06b,NLD,Fees,,0,,GBP,72227,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+NLD007,F13b,NLD,Fees,,0,,GBP,73933,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+NOR001,Jotun,NOR,Tax,,0,,GBP,-4010463,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR001,Claymore,GBR,Tax,,0,,GBP,-519423,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR002,Victor,GBR,Tax,,0,,GBP,-989886,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR003,P021,GBR,Fees,,0,,GBP,28217,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR004,P1051,GBR,Fees,,0,,GBP,100259,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR005,P1610,GBR,Fees,,0,,GBP,117419,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR006,P1720,GBR,Fees,,0,,GBP,47159,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR007,P1896,GBR,Fees,,0,,GBP,41624,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR008,P1987,GBR,Fees,,0,,GBP,4949,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR009,P215,GBR,Fees,,0,,GBP,31403,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR010,P353,GBR,Fees,,0,,GBP,164973,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR011,P361,GBR,Fees,,0,,GBP,81273,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR012,P472,GBR,Fees,,0,,GBP,49043,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR013,P570,GBR,Fees,,0,,GBP,160023,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR014,P1242,GBR,Fees,,0,,GBP,2759,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016
+GBR015,P2180,GBR,Fees,,0,,GBP,33182,Dana Petroleum Limited,03456891,,Extractives Report,2015-12-31,1,,29 Nov 2016

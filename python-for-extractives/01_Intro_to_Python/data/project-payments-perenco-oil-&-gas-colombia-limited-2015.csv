@@ -1,0 +1,14 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+Boquerón,Boquerón,COL,ProductionEntitlements,BOE,39249,Average realised oil price during the year,USD,1883952,Perenco Oil & Gas Colombia Limited,01789505,"Payment in kind 39,249 BOE at average realised sales price for the year",Extractives Report,2015-12-31,1,,17 Oct 2016
+Espinal,Espinal,COL,ProductionEntitlements,BOE,79139,Average realised oil price during the year,USD,3798672,Perenco Oil & Gas Colombia Limited,01789505,"Payment in kind 79,139 BOE at average realised sales price for the year",Extractives Report,2015-12-31,1,,17 Oct 2016
+Boquerón,Boquerón,COL,Royalties,,0,,USD,3962,Perenco Oil & Gas Colombia Limited,01789505,,Extractives Report,2015-12-31,1,,17 Oct 2016
+Espinal,Espinal,COL,Royalties,,0,,USD,560815,Perenco Oil & Gas Colombia Limited,01789505,,Extractives Report,2015-12-31,1,,17 Oct 2016
+Cerrero Chacharo,Cerrero Chacharo,COL,Royalties,,0,,USD,58916,Perenco Oil & Gas Colombia Limited,01789505,,Extractives Report,2015-12-31,1,,17 Oct 2016
+Cerrero Katmandu Norte-1,Cerrero Katmandu Norte-1,COL,Royalties,,0,,USD,10,Perenco Oil & Gas Colombia Limited,01789505,,Extractives Report,2015-12-31,1,,17 Oct 2016
+San Jacinto & Rio Paez LCN,San Jacinto & Rio Paez LCN,COL,ProductionEntitlements,BOE,9115,Average realised oil price during the year,USD,437520,Perenco Oil & Gas Colombia Limited,01789505,"Payment in kind 9,115 BOE at average realised sales price for the year",Extractives Report,2015-12-31,1,,17 Oct 2016
+Yalea,Yalea,COL,ProductionEntitlements,BOE,19624,Average realised oil price during the year,USD,941952,Perenco Oil & Gas Colombia Limited,01789505,"Payment in kind 19,624 BOE at average realised sales price for the year",Extractives Report,2015-12-31,1,,17 Oct 2016
+San Jacinto & Rio Paez LCN,San Jacinto & Rio Paez LCN,COL,Royalties,,0,,USD,12040,Perenco Oil & Gas Colombia Limited,01789505,,Extractives Report,2015-12-31,1,,17 Oct 2016
+Yalea,Yalea,COL,Royalties,,0,,USD,899,Perenco Oil & Gas Colombia Limited,01789505,,Extractives Report,2015-12-31,1,,17 Oct 2016
+Tiple,Tiple,COL,ProductionEntitlements,BOE,6612,Average realised oil price during the year,USD,317376,Perenco Oil & Gas Colombia Limited,01789505,"Payment in kind 6,612 BOE at average realised sales price for the year",Extractives Report,2015-12-31,1,,17 Oct 2016
+Manatus,Manatus,COL,ProductionEntitlements,BOE,4245,Average realised oil price during the year,USD,203760,Perenco Oil & Gas Colombia Limited,01789505,"Payment in kind 4,245 BOE at average realised sales price for the year",Extractives Report,2015-12-31,1,,17 Oct 2016
+Corporate,Corporate,COL,Tax,,0,,USD,1811000,Perenco Oil & Gas Colombia Limited,01789505,,Extractives Report,2015-12-31,1,,17 Oct 2016

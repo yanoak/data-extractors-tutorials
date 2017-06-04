@@ -1,0 +1,103 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+,Algeria Joint Interest Unit,IND,Fees,,0,,USD,4500000,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Algeria Joint Interest Unit,DZA,ProductionEntitlements,,0,,USD,44964455,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Australia Production Unit - Victoria,AUS,Tax,,0,,USD,6526354,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Australia Production Unit - Victoria,AUS,Tax,,0,,USD,17651859,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Australia Production Unit - Western Australia,AUS,Tax,,0,,USD,392655,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Australia Production Unit - Western Australia,AUS,Fees,,0,,USD,482056,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Australia Production Unit - Western Australia,AUS,Tax,,0,,USD,172637913,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Bass Strait,AUS,Tax,,0,,USD,73098672,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Bass Strait,AUS,Tax,,0,,USD,143396691,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Closed Mines,CAN,Tax,,0,,USD,9120771,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Closed Mines,CAN,Fees,,0,,USD,263509,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Closed Mines,USA,Fees,,0,,USD,575543,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Closed Mines,USA,Tax,,0,,USD,2720,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Corporate Head Office,AUS,Tax,,0,,USD,-299053105,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Corporate Head Office,CAN,Tax,,0,,USD,222,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Corporate Head Office,MYS,Tax,,0,,USD,2570,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Corporate Head Office,MNG,Tax,,0,,USD,17831,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Corporate Head Office,TZA,Tax,,0,,USD,429,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Corporate Head Office,GBR,Tax,,0,,USD,2252327,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Corporate Head Office,USA,Tax,,0,,USD,-4507816,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Corporate Head Office,AUS,Tax,,0,,USD,-3261156,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Escondida,CHL,Tax,,0,,USD,439859386,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Escondida,CHL,Fees,,0,,USD,5321005,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Escondida,CHL,Tax,,0,,USD,87959945,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Gulf of Mexico,USA,Tax,,0,,USD,13104424,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Gulf of Mexico,USA,Fees,,0,,USD,42729141,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Gulf of Mexico,USA,Royalties,,0,,USD,134133267,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Head Office - BHP Billiton Brasil Investimentos Ltda.,BRA,Tax,,0,,USD,727057,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Head Office - BHP Billiton Brasil Investimentos Ltda.,BRA,Tax,,0,,USD,386919,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Head Office - BHP Billiton Brasil Ltda,BRA,Tax,,0,,USD,8456770,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Head Office - BHP Billiton MetCoal Holdings Pty Ltd,AUS,Tax,,0,,USD,1068010,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Head Office - BHP Billiton Petroleum International Pty. Ltd.,AUS,Tax,,0,,USD,-173672465,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Head Office - BHP Billiton Petroleum International Pty. Ltd.,USA,Tax,,0,,USD,16603460,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Head Office - BHP Chile Inc,CHL,Tax,,0,,USD,-11524187,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Head Office - BHP Chile Inc,USA,Tax,,0,,USD,16271982,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Head Office - BHP Chile Inc,USA,Tax,,0,,USD,188201,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Head Office - BHP Chile Inc,CHL,Fees,,0,,USD,3596172,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Head Office - BHP Chile Inc,NZL,Fees,,0,,USD,192,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Head Office - BHP Chile Inc,PER,Fees,,0,,USD,2322507,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Head Office - BHP Chile Inc,USA,Fees,,0,,USD,854125,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Head Office - BHP Chile Inc,USA,Royalties,,0,,USD,14416,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Head Office - BHP Petroleum (Pakistan) Pty. Ltd.,PAK,Tax,,0,,USD,12500000,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Head Office - RAL Cayman Inc.,PER,Tax,,0,,USD,9547975,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,IndoMet,IDN,Fees,,0,,USD,1324657,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,IndoMet,IDN,Royalties,,0,,USD,3790633,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Marketing Offices,AUS,Tax,,0,,USD,2278674,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Marketing Offices,CHN,Tax,,0,,USD,304859,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Marketing Offices,IND,Tax,,0,,USD,-223061,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Marketing Offices,JPN,Tax,,0,,USD,1072181,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Marketing Offices,KOR,Tax,,0,,USD,206102,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Marketing Offices,SGP,Tax,,0,,USD,7456427,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Marketing Offices,CHE,Tax,,0,,USD,2391707,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Marketing Offices,USA,Tax,,0,,USD,22045,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,New Mexico,USA,Tax,,0,,USD,14250000,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,New Mexico,USA,Fees,,0,,USD,1000496,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,New Mexico,USA,Tax,,0,,USD,3348746,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,New Mexico,USA,Royalties,,0,,USD,9191812,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,New South Wales Energy Coal,AUS,Fees,,0,,USD,2897779,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,New South Wales Energy Coal,AUS,Royalties,,0,,USD,62680520,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Nickel West,AUS,Tax,,0,,USD,-29883394,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Nickel West,AUS,Fees,,0,,USD,2657966,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Nickel West,AUS,Royalties,,0,,USD,9978637,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,North West Shelf,AUS,Tax,,0,,USD,232730399,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,North West Shelf,AUS,Fees,,0,,USD,103561,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,North West Shelf,AUS,Tax,,0,,USD,26962998,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,North West Shelf,AUS,Tax,,0,,USD,8349231,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,North West Shelf,AUS,Royalties,,0,,USD,100029891,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Olympic Dam,AUS,Tax,,0,,USD,-78108466,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Olympic Dam,AUS,Fees,,0,,USD,1209087,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Olympic Dam,AUS,Royalties,,0,,USD,51211462,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Onshore US (Fayetteville),USA,Tax,,0,,USD,2756149,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Onshore US (Fayetteville),USA,Fees,,0,,USD,20720,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Onshore US (Fayetteville),USA,Tax,,0,,USD,5387619,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Onshore US (Fayetteville),USA,Royalties,,0,,USD,572816,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Onshore US (Haynesville),USA,Fees,,0,,USD,2268,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Onshore US (Haynesville),USA,Tax,,0,,USD,26158425,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Onshore US (Haynesville),USA,Royalties,,0,,USD,2203905,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,"Onshore US (Permian Basin, Eagle Ford)",USA,Tax,,0,,USD,11259,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,"Onshore US (Permian Basin, Eagle Ford)",USA,Fees,,0,,USD,3904686,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,"Onshore US (Permian Basin, Eagle Ford)",USA,Tax,,0,,USD,89580144,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,"Onshore US (Permian Basin, Eagle Ford)",USA,Royalties,,0,,USD,32035670,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Pampa Norte,CHL,Tax,,0,,USD,60171108,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Pampa Norte,CHL,Fees,,0,,USD,1537675,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Petroleum Divested Asset,PAK,Tax,,0,,USD,3490000,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Petroleum Divested Asset,PAK,Royalties,,0,,USD,2187658,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Potash,CAN,Tax,,0,,USD,911776,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Potash,CAN,Tax,,0,,USD,-453095,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Potash,CAN,Fees,,0,,USD,8389634,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Potash,CAN,Infrastructure,,0,,USD,22926516,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Queensland Coal,AUS,Tax,,0,,USD,-73003091,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Queensland Coal,AUS,Fees,,0,,USD,5718711,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Queensland Coal,AUS,Royalties,,0,,USD,333895188,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Trinidad and Tobago Production Unit,TTO,Fees,,0,,USD,14922724,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Trinidad and Tobago Production Unit,TTO,ProductionEntitlements,,0,,USD,36241715,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,UK Production Unit,GBR,Tax,,0,,USD,-19890569,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,UK Production Unit,GBR,Fees,,0,,USD,23710,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,UK Production Unit,GBR,Tax,,0,,USD,2999291,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Western Australia Iron Ore,AUS,Tax,,0,,USD,996229712,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Western Australia Iron Ore,AUS,Tax,,0,,USD,-20600000,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Western Australia Iron Ore,AUS,Fees,,0,,USD,9017919,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Western Australia Iron Ore,AUS,Infrastructure,,0,,USD,1572004,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016
+,Western Australia Iron Ore,AUS,Royalties,,0,,USD,742989111,BHP Billiton Plc ,03196209,,Extractive Industry Reporting ,2016-06-30,1,0,04 Nov 2016

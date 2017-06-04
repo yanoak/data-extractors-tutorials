@@ -1,0 +1,4 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+GBR,DEPARTMENT OF ENERGY AND CLIMATE CHANGE,Fees,0,0,0,GBP,1017408,CNR International (U.K.) Investments Limited (consolidating CNR International UK Limited and CNR International Developments Limited),01293529,,Extractives Report,2015-12-31,1,,24 Nov 2016
+GBR,HEALTH AND SAFETY EXECUTIVE,Fees,0,0,0,GBP,546874,CNR International (U.K.) Investments Limited (consolidating CNR International UK Limited and CNR International Developments Limited),01293529,,Extractives Report,2015-12-31,1,,24 Nov 2016
+GBR,HM REVENUE AND CUSTOMS,Tax,0,0,0,GBP,-193115226,CNR International (U.K.) Investments Limited (consolidating CNR International UK Limited and CNR International Developments Limited),01293529,,Extractives Report,2015-12-31,1,,24 Nov 2016

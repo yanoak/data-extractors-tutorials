@@ -1,0 +1,14 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+not assigned,PM8,MYS,ProductionEntitlements,BOE,996805,Article price,USD,47492425,EnQuest PLC,07140891,Payment in kind for 996805 boe at article price,Extractives Report,2015-12-31,1,,30 Jun 2016
+not assigned,PM8,MYS,Tax,0,0,,USD,8175125,EnQuest PLC,07140891,Supplementary and research cess payments,Extractives Report,2015-12-31,1,,30 Jun 2016
+not assigned,PM8,MYS,Royalties,0,0,,USD,1299597,EnQuest PLC,07140891,,Extractives Report,2015-12-31,1,,30 Jun 2016
+not assigned,Tanjong Baram,MYS,Infrastructure,0,0,,USD,100000,EnQuest PLC,07140891,,Extractives Report,2015-12-31,1,,30 Jun 2016
+not assigned,Kraken,GBR,Fees,0,0,,USD,498491,EnQuest PLC,07140891,,Extractives Report,2015-12-31,1,,30 Jun 2016
+not assigned,Alma & Galia,GBR,Fees,0,0,,USD,149663,EnQuest PLC,07140891,,Extractives Report,2015-12-31,1,,30 Jun 2016
+not assigned,Kittiwake,GBR,Fees,0,0,,USD,884459,EnQuest PLC,07140891,,Extractives Report,2015-12-31,1,,30 Jun 2016
+not assigned,Alba,GBR,Tax,0,0,,USD,-4539623,EnQuest PLC,07140891,,Extractives Report,2015-12-31,1,,30 Jun 2016
+not assigned,Kildrummy,GBR,Fees,0,0,,USD,149202,EnQuest PLC,07140891,,Extractives Report,2015-12-31,1,,30 Jun 2016
+not assigned,Corporate,GBR,Tax,0,0,,USD,719088,EnQuest PLC,07140891,,Extractives Report,2015-12-31,1,,30 Jun 2016
+not assigned,Corporate,GBR,Fees,0,0,,USD,1849352,EnQuest PLC,07140891,,Extractives Report,2015-12-31,1,,30 Jun 2016
+not assigned,Corporate,NOR,Tax,0,0,,USD,-2924275,EnQuest PLC,07140891,,Extractives Report,2015-12-31,1,,30 Jun 2016
+not assigned,Corporate,MYS,Tax,0,0,,USD,7766461,EnQuest PLC,07140891,,Extractives Report,2015-12-31,1,,30 Jun 2016

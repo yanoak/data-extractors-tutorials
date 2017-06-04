@@ -1,0 +1,56 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+ARG,Argentina - National,Tax,,,,USD,7159000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+ARG,Argentina - Regional - Catamarca,Royalties,,,,USD,16586000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+ARG,Argentina - Regional - Jujuy Province,Royalties,,,,USD,1075000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+ARG,Argentina - Local - San Juan,Fees,,,,USD,147000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+AUS,Australia - National,Tax,,,,USD,66195278,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+AUS,Australia - Regional - New South Wales,Royalties,,,,USD,233845673,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+AUS,Australia - Regional - New South Wales,Fees,,,,USD,3963671,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+AUS,Australia - Regional - New South Wales,Infrastructure,,,,USD,13006730,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+AUS,Australia - Regional - Northern Territory,Fees,,,,USD,811828,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+AUS,Australia - Regional - Queensland,Royalties,,,,USD,143264963,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+AUS,Australia - Regional - Queensland,Fees,,,,USD,9153829,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+AUS,Australia - Regional - Western Australia,Royalties,,,,USD,12548346,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+AUS,Australia - Regional - Western Australia,Fees,,,,USD,2261311,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+AUS,Australia - Local -  Muswellbrook Shire Council,Infrastructure,,,,USD,1020979,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+AUS,Australia - Local - Singleton Shire Council,Infrastructure,,,,USD,17049835,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+BOL,Bolivia - National,Royalties,,,,USD,27316000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+BFA,Burkina Faso - National,Royalties,,,,USD,1696000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+CAN,Canada - National,Tax,,,,USD,14577000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+CAN,Canada - Regional - British Columbia,Fees,,,,USD,819000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+CAN,Canada - Regional - Nunavut,Fees,,,,USD,44000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+CAN,Canada - Regional - Ontario,Tax,,,,USD,15334000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+CAN,Canada - Regional - Ontario,Fees,,,,USD,105000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+CAN,Canada - Regional - Quebec,Tax,,,,USD,14858000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+CAN,Canada - Regional - Quebec,Fees,,,,USD,241000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+TCD,Chad - National,ProductionEntitlements,,,,USD,73276000,Glencore plc,,Comment refers to payment type 'production entitlement' only: Includes production lifting of 1.85MM barrels valued at market price under production sharing agreement,Extractives Report,2015-12-31,1,,29 Aug 2016
+TCD,Chad - National,Bonuses,,,,USD,4000000,Glencore plc,,Comment refers to payment type 'production entitlement' only: Includes production lifting of 1.85MM barrels valued at market price under production sharing agreement,Extractives Report,2015-12-31,1,,29 Aug 2016
+TCD,Chad - National,Fees,,,,USD,2604000,Glencore plc,,Comment refers to payment type 'production entitlement' only: Includes production lifting of 1.85MM barrels valued at market price under production sharing agreement,Extractives Report,2015-12-31,1,,29 Aug 2016
+CHL,Chile - National,Royalties,,,,USD,9000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+CHL,Chile - National,Fees,,,,USD,739000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+CHL,Chile - Local - Punitaqui,Fees,,,,USD,125000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+CHL,Chile - Local - Sierra Gorda,Fees,,,,USD,541000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+COL,Colombia - National,Tax,,,,USD,23832000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+COL,Colombia - National,Royalties,,,,USD,112966000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+COL,Colombia - Regional - Cesar,Royalties,,,,USD,3000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+COD,DRC - National,Tax,,,,USD,176646000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+COD,DRC - National,Royalties,,,,USD,104180000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+COD,DRC - National,Fees,,,,USD,29426000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+COD,DRC - National,Infrastructure,,,,USD,53712000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+GNQ,Equatorial Guinea - National,ProductionEntitlements,,,,USD,258707000,Glencore plc,,Comment refers to payment type 'production entitlement' only: Includes production lifting of 5.9MM barrels valued at market price under production sharing agreement,Extractives Report,2015-12-31,1,,29 Aug 2016
+GNQ,Equatorial Guinea - National,Tax,,,,USD,36363000,Glencore plc,,Comment refers to payment type 'production entitlement' only: Includes production lifting of 5.9MM barrels valued at market price under production sharing agreement,Extractives Report,2015-12-31,1,,29 Aug 2016
+GNQ,Equatorial Guinea - National,Fees,,,,USD,980000,Glencore plc,,Comment refers to payment type 'production entitlement' only: Includes production lifting of 5.9MM barrels valued at market price under production sharing agreement,Extractives Report,2015-12-31,1,,29 Aug 2016
+KAZ,Kazakhstan - National,Tax,,,,USD,79986000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+KAZ,Kazakhstan - National,Royalties,,,,USD,65890000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+NAM,Namibia - National,Tax,,,,USD,6659000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+NAM,Namibia - National,Royalties,,,,USD,1043000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+PER,Peru - National,Tax,,,,USD,54204000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+PER,Peru - National,Royalties,,,,USD,28825000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+PER,Peru - National,Fees,,,,USD,1880000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+PER,Peru - Local - Lima,Fees,,,,USD,4716000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+ZAF,South Africa - National ,Royalties,,,,USD,11974011,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+ZAF,South Africa - National ,Infrastructure,,,,USD,2098988,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+TZA,Tanzania - National,Fees,,,,USD,206000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+ZMB,Zambia - National,Tax,,,,USD,270000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+ZMB,Zambia - National,Royalties,,,,USD,41885000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016
+ZMB,Zambia - National,Fees,,,,USD,4000,Glencore plc,,,Extractives Report,2015-12-31,1,,29 Aug 2016

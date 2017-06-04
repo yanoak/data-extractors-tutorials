@@ -1,0 +1,3 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+RUS,Ministry of Natural Resources and Environmental Protection of Komi Republic,Fees,,0,,EUR,612000,MONDI PLC,06209386,Licence Fees,Extractive Industry Reporting,2015-12-31,1,,28 Jun 2016
+RUS,Federal Tax Service of Russian Federation,Tax,,0,,EUR,97000,MONDI PLC,06209386,Tax Payment,Extractive Industry Reporting,2015-12-31,1,,28 Jun 2016

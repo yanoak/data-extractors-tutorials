@@ -1,0 +1,44 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+RUS,Federal government (MI FNS po krupneishim nalogoplatelschikam #5),Tax,,,,USD,12023754,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Regional government (MI FNS po krupneishim nalogoplatelschikam #5),Tax,,,,USD,90512441,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (MRI FNS Rossii po Sverdlovskoy oblasti #27),Fees,,,,USD,963628,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (Administraziya Kachkanarskogo GO),Fees,,,,USD,1332,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (Komitet po imuschestvu Kachkanarskogo GO),Fees,,,,USD,11,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,"Local government (MKU ""KUI Administraziya GO ""Gorod Lesnoy"")",Fees,,,,USD,5740,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (TU Rosimuschestva Sverdlovskoy oblasti),Fees,,,,USD,44640,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Regional government (Kemerovskaya oblast),Tax,,,,USD,697713,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (Novokuznetsk city),Fees,,,,USD,540259,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (Tashtagol city),Fees,,,,USD,1333528,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (Gurevsk city),Fees,,,,USD,260388,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Federal government (IFNS #13 Tuva Republic.),Tax,,,,USD,54436,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Federal government (IFNS #13 Tuva Republic.),Fees,,,,USD,16233,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Regional government (IFNS #1 Tuva Republic Kyzyl city - administraziya Tandinskogo kozhuuna I administraziya Kyzylskogo Kozhuuna),Tax,,,,USD,81654,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Regional government (IFNS #1 Tuva Republic Kyzyl city - administraziya Tandinskogo kozhuuna I administraziya Kyzylskogo Kozhuuna),Fees,,,,USD,17861,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (Mestnaya administraziya Tandinskogo kozhuuna I administraziya Kyzylskogo Kozhuuna),Fees,,,,USD,71442,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (Department Minprirody po Lesnym otnosheniyam Republic Saha (Yakutiaya)),Fees,,,,USD,663,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (IFNS Roissii po Neryungrinskomu rayonu Republic Saha (Yakutiya)),Fees,,,,USD,4666,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Federal government (MRI FNS #2 po krupneyshim nalogoplatelschikam kemerovskoy oblasti),Tax,,,,USD,4860485,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Federal government (MRI FNS #2 po krupneyshim nalogoplatelschikam kemerovskoy oblasti),Fees,,,,USD,6301,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Regional government (MRI FNS #2 po krupneyshim nalogoplatelschikam kemerovskoy oblasti),Tax,,,,USD,21913043,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Federal government (Department lesnogo kompleksa kemerovskoy oblasti),Fees,,,,USD,642053,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Regional government (Department lesnogo kompleksa kemerovskoy oblasti),Fees,,,,USD,1032742,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (Komitet po imuschestvu goroda Mezhdurechenska),Fees,,,,USD,5162782,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (MRI FNS po Mezhdurechensku #8),Fees,,,,USD,907,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (TU Rosimuschestva Kemerovskoy oblasti),Fees,,,,USD,27819,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Federal government (IFNS 4 po kemerosvskoy oblasti),Tax,,,,USD,5468,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (Komitet gradostroitelstva I zemelnyh resursov administrazii goroda Novokuznetska),Fees,,,,USD,155664,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Federal government (IFNS#5),Tax,,,,USD,245442,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Regional government (IFNS#5),Tax,,,,USD,536268,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (IFNS#5 Osinniki),Fees,,,,USD,709237,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (IFNS#13 Novokuznetskiy rayon),Fees,,,,USD,317927,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,"Local government (IFNS#13, Novokuznetskiy rayon, administraziya novokuznetskogo rayona)",Fees,,,,USD,198955,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Local government (Administraziya Novokuznetskogo munizipalnogo rayona),Fees,,,,USD,46677,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Federal government (IFNS#13),Fees,,,,USD,80,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Federal (Sibnedra),Fees,,,,USD,1084355,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,Federal government (IFNS#13 Novokuznetskiy rayon),Fees,,,,USD,3810,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,"Local government (IFNS#4 Novokuznetsk, Komitet gradostroitelstva I zemelnyh resursov)",Fees,,,,USD,124620,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,"Local government (IFNS 8 KUMI, Mezhdurechenskiy Gorodskoy Okrug)",Fees,,,,USD,89601,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+RUS,"Local government (MKUUMI, Kaltan)",Fees,,,,USD,35719,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+UKR,Federal government (Glavnoe Upravlenie Gosudarstvennoy kaznacheyskoy sluzhby Ukrainy in Dnepropetrovskaya oblast),Tax,,,,USD,7847101,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+UKR,Local government (Upravlenie gosudarstvennoy kaznacheyskoy sluzhby Ukrainy in Zhovtnevom rayone goroda Krivogo Roga),Tax,,,,USD,5967137,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016
+ZAF,Local government (SARS),Tax,,,,USD,1113768,EVRAZ PLC,07784342,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,2,,17 Aug 2016

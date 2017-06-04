@@ -1,0 +1,83 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+BRA,Municipality of Conceição do Mato Dentro,Infrastructure,,0,,USD,12376651,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+BRA,Municipality of Sabinopólis,Infrastructure,,0,,USD,482346,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+BRA,Municipality of Dom Joaquim,Infrastructure,,0,,USD,1401898,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+BRA,Municipality of Alvorada de Minas,Infrastructure,,0,,USD,496084,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+BRA,Municipality of Serro,Infrastructure,,0,,USD,2075694,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+BRA,São Felix do Xingu,Infrastructure,,0,,USD,4200453,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Attawapiskat First Nation,Infrastructure,,0,,USD,1219629,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Deninu Kue First Nation,Infrastructure,,0,,USD,203272,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Fort Albany First Nation,Infrastructure,,0,,USD,636646,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Kashechewan First Nation,Infrastructure,,0,,USD,921064,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Lutsel K’e and Kache Dene First Nation,Infrastructure,,0,,USD,555663,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Moosecree First Nation,Infrastructure,,0,,USD,734107,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,North West Terrotories Metis Nation,Infrastructure,,0,,USD,203272,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Tlácho Government- Other,Infrastructure,,0,,USD,646236,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Yellowknives Dene First Nation,Infrastructure,,0,,USD,231689,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CHL,Chilean Municipalities,Infrastructure,,0,,USD,5690401,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Joe-Morolong Mun. Road N14-Ganghaai,Infrastructure,,0,,USD,782000,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Gamagara Mun. Mapoteng Roads,Infrastructure,,0,,USD,778000,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Ga-Segonyana Mun. Kagung Roads,Infrastructure,,0,,USD,444000,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Ga-Segonyana Mun. Mogojaneng Roads,Infrastructure,,0,,USD,444000,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Batho Pele Health Units (Revamp),Infrastructure,,0,,USD,1290000,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Tsantsabane Municipality,Infrastructure,,0,,USD,471000,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Dept. of social Development,Infrastructure,,0,,USD,430000,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Dept. of Health,Infrastructure,,0,,USD,252000,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,The Development Bank of Southern Africa,Infrastructure,,0,,USD,836708,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Department of Health,Infrastructure,,0,,USD,676998,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Govan Mbeki & Lekwa Local Municipality,Infrastructure,,0,,USD,15698002,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Emalahleni Municipality & Department of Education,Infrastructure,,0,,USD,4102627,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Limpopo Department of health,Infrastructure,,0,,USD,105000,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Other,Infrastructure,,0,,USD,126000,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Limpopo Department of health,Infrastructure,,0,,USD,120247,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,North West: Department of Health,Infrastructure,,0,,USD,243000,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Blouberg Municipality,Infrastructure,,0,,USD,240000,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Free State Department of Education,Infrastructure,,0,,USD,424000,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Limpopo Department of Education,Infrastructure,,0,,USD,510000,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,National Department of Higher Education,Infrastructure,,0,,USD,403000,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+AUS,Queensland - State,Fees,,0,,USD,3131619,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+BRA,Goias - Municipal,Fees,,0,,USD,145887,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+BRA,Minas Gerais - State,Fees,,0,,USD,1070214,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+BRA,Other - Other,Fees,,0,,USD,242454,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+BRA,Secretaria da Receita Federal do Brasil - Federal,Fees,,0,,USD,303814,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Attawapiskat First Nation - Other,Fees,,0,,USD,1172786,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Deninu Kué First Nation - Other,Fees,,0,,USD,195464,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Fort Albany First Nation - Other,Fees,,0,,USD,569348,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Government of the NWT - State,Fees,,0,,USD,133044,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Kashechewan First Nation - Other,Fees,,0,,USD,842686,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Lutsel K'e Dene First Nation - Other,Fees,,0,,USD,512116,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Moose Creek First Nation - Other,Fees,,0,,USD,798021,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,North West Territory Métis Nation - Other,Fees,,0,,USD,195464,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Tlácho Government -Other,Fees,,0,,USD,709083,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Receiver General of Canada - Federal,Fees,,0,,USD,14134,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Yellowknives Dene First Nation - Other,Fees,,0,,USD,218920,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CHL,Nogales Municipal,Fees,,0,,USD,212136,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CHL,Lo Barnechea Municipal,Fees,,0,,USD,651689,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CHL,Colina Municipal,Fees,,0,,USD,118197,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CHL,Tesorería General de la República - Nacional,Fees,,0,,USD,3756890,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+PER,ACTIVOS MINEROS S.A.C. - Federal,Fees,,0,,USD,3709025,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+PER,FONDO DE DESARROLLO DE MOQUEGUA - Local,Fees,,0,,USD,183475,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+PER,MINISTERIO DE ENERGIA Y MINAS - Federal,Fees,,0,,USD,461600,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+USA,Bureau of Land Management,Fees,,0,,USD,162495,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,Chief Licencing Officer - Municipal,Fees,,0,,USD,108833,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,South African Diamond & Precious Metal Regulator - Local,Fees,,0,,USD,679132,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZWE,Ministry of Mines and Mining Development - State,Fees,,0,,USD,283004,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZMB,Zambia Mines Development Department,Fees,,0,,USD,205000,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+AUS,New South Wales - State,Royalties,,0,,USD,12630585,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+AUS,Queensland - State,Royalties,,0,,USD,210421551,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+BRA,Goias - State,Royalties,,0,,USD,1768175,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+BRA,National Department of Mineral Production - Federal,Royalties,,0,,USD,4837170,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+BRA,Other - Other,Royalties,,0,,USD,508991,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+BRA,Secretaria da Receita Federal do Brasil - Federal,Royalties,,0,,USD,3522613,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CAN,Ministry of Finance - State,Royalties,,0,,USD,11310290,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,South African Revenue Service - Federal,Royalties,,0,,USD,26192420,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,South African Revenue Service - State,Royalties,,0,,USD,55683898,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZWE,Minerals Marketing Corporation of Zimbabwe - State,Royalties,,0,,USD,2489139,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+AUS,Commonwealth of Australia - Federal,Tax,,0,,USD,10157082,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+BRA,Minas Gerais - State,Tax,,0,,USD,2471055,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+BRA,Secretaria da Receita Federal do Brasil - Federal,Tax,,0,,USD,102096711,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CHL,Servicio de Impuestos Internos - Nacional,Tax,,0,,USD,69247341,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+CHL,Tesorería General de la República - Nacional,Tax,,0,,USD,30135415,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+PER,SUPERINTENDENCIA NACIONAL TRIBUTARIA - Federal,Tax,,0,,USD,1581313,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,South African Revenue Service - Federal,Tax,,0,,USD,38671272,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016
+ZAF,South African Revenue Service - State,Tax,,0,,USD,156900475,Anglo American plc,03564138,,Anglo American Report,2015-12-31,1,,30 Jun 2016

@@ -1,0 +1,25 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+ART,Artemyevsky,KAZ,Royalties,,,,USD,15720,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+ART,Artemyevsky,KAZ,Fees,,,,USD,427,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+IRT,Irtyshsky,KAZ,Royalties,,,,USD,7436,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+IRT,Irtyshsky,KAZ,Fees,,,,USD,149,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+ORL,Orlovsky,KAZ,Royalties,,,,USD,23836,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+YUB,Yubileyno-Snegirikhinsky,KAZ,Royalties,,,,USD,5126,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+EAS,Legal Entity - East Region,KAZ,Tax,,,,USD,30481,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+EAS,Legal Entity - East Region,KAZ,Tax,,,,USD,613,KAZ Minerals PLC,05180783,thousands. withholding taxes,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+EAS,Legal Entity - East Region,KAZ,Infrastructure,,,,USD,11072,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+AKT,Aktogay,KAZ,Tax,,,,USD,3198,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+AKT,Aktogay,KAZ,Royalties,,,,USD,2945,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+AKT,Aktogay,KAZ,Tax,,,,USD,307,KAZ Minerals PLC,05180783,thousands. withholding taxes,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+AKT,Aktogay,KAZ,Fees,,,,USD,535,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+AKT,Aktogay,KAZ,Infrastructure,,,,USD,620,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+BOZ,Bozshakol,KAZ,Royalties,,,,USD,1532,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+BOZ,Bozshakol,KAZ,Tax,,,,USD,285,KAZ Minerals PLC,05180783,thousands. withholding taxes,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+BOZ,Bozshakol,KAZ,Infrastructure,,,,USD,2629,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+KOK,Koksay,KAZ,Tax,,,,USD,11389,KAZ Minerals PLC,05180783,thousands. withholding taxes,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+KAZ,Legal Entity - other,KAZ,Tax,,,,USD,155,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+BOK,Bozymchak project and legal entity,KGZ,Royalties,,,,USD,1007,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+BOK,Bozymchak project and legal entity,KGZ,Tax,,,,USD,137,KAZ Minerals PLC,05180783,thousands. withholding taxes,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+BOK,Bozymchak project and legal entity,KGZ,Infrastructure,,,,USD,430,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+GBR,Legal entity,GBR,Tax,,,,USD,6364,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+HKG,Legal entity,HKG,Tax,,,,USD,145,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016

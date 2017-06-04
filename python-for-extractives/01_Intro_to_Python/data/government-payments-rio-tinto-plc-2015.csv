@@ -1,0 +1,43 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+ARG,ARGENTINA NATIONAL,Tax,,0,,USD,399739,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS,AUSTRALIA FEDERAL,Tax,,0,,USD,1926487154,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS,AUSTRALIA FEDERAL,Fees,,0,,USD,667728,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+BRA,BRAZIL NATIONAL,Tax,,0,,USD,354611,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+USA,CALIFORNIA GOVERNMENT,Tax,,0,,USD,3500000,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+USA,CALIFORNIA GOVERNMENT,Royalties,,0,,USD,240187,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+CAN,CANADA FEDERAL,Tax,,0,,USD,23588744,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+CHL,CHILE NATIONAL,Fees,,0,,USD,555753,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS,CITY OF KARRATHA,Fees,,0,,USD,104850,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+COL,COLUMBIA NATIONAL,Tax,,0,,USD,341011,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+GIN,GUINEA NATIONAL,Royalties,,0,,USD,52995,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+IDN,INDONESIA NATIONAL,Tax,,0,,USD,-5781068,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+MNG,KHANBOGD SUM,Fees,,0,,USD,7560161,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+MDG,MADAGASCAR NATIONAL,Royalties,,0,,USD,569615,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+MDG,MADAGASCAR NATIONAL,Fees,,0,,USD,109825,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+MNG,MONGOLIA NATIONAL,Tax,,0,,USD,65951340,Rio Tinto PLC,00719885,Tax paid to the national government of Mongolia is withholding tax on loan interest.,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+MNG,MONGOLIA NATIONAL,Royalties,,0,,USD,111117141,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+MNG,MONGOLIA NATIONAL,Fees,,0,,USD,221793,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS,MUSWELLBROOK SHIRE COUNCIL,Fees,,0,,USD,562382,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+NAM,NAMIBIA NATIONAL,Royalties,,0,,USD,5033528,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+CAN,NEWFOUNDLAND GOVERNMENT,Tax,,0,,USD,10609129,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS,NEW SOUTH WALES GOVERNMENT,Royalties,,0,,USD,145160506,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS,NEW SOUTH WALES GOVERNMENT,Fees,,0,,USD,2399410,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS,NORTHERN TERRITORY GOVERNMENT,Royalties,,0,,USD,29622808,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS,NORTHERN TERRITORY GOVERNMENT,Fees,,0,,USD,2757307,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+CAN,NORTH WEST TERRITORIES GOVERNMENT,Tax,,0,,USD,29653616,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+CAN,NORTH WEST TERRITORIES GOVERNMENT,Fees,,0,,USD,381740,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+PER,PERU NATIONAL,Tax,,0,,USD,5989027,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+PER,PERU NATIONAL,Fees,,0,,USD,9108435,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+CAN,QUEBEC GOVERNMENT,Tax,,0,,USD,-1315385,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS,QUEENSLAND GOVERNMENT,Royalties,,0,,USD,150275682,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS,QUEENSLAND GOVERNMENT,Fees,,0,,USD,4975136,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+ZAF,SOUTH AFRICA NATIONAL,Tax,,0,,USD,75352135,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+ZAF,SOUTH AFRICA NATIONAL,Royalties,,0,,USD,15512451,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS,TOWN OF PORT HEADLAND,Fees,,0,,USD,327400,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+MNG,ULAANBATAAR CITY,Fees,,0,,USD,509182,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+USA,USA FEDERAL,Tax,,0,,USD,-107100446,Rio Tinto PLC,00719885,"The loss associated with the decision to abandon the Molybdenum Autoclave Process in Utah, along with 2014 efforts to begin salvage and demolition of the plant, gave rise to Federal corporate income tax refunds in 2015.",Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+USA,UTAH GOVERNMENT,Tax,,0,,USD,-6741332,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+USA,UTAH GOVERNMENT,Royalties,,0,,USD,6024609,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS,WESTERN AUSTRALIA GOVERNMENT,Royalties,,0,,USD,1075651449,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS,WESTERN AUSTRALIA GOVERNMENT,Fees,,0,,USD,1320359,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+ZWE,ZIMBABWE NATIONAL,Royalties,,0,,USD,3859594,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016

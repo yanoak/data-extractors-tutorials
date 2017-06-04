@@ -1,0 +1,55 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+GBR1,Entity  Level,GBR,Tax,,0,,GBP,-2164109,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR1,Entity  Level,GBR,Fees,,0,,GBP,67962,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR2,A Fields,GBR,Tax,,0,,GBP,-3625928,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR2,A Fields,GBR,Fees,,0,,GBP,83987,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR3,Alba,GBR,Tax,,0,,GBP,1139899,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR4,Amethyst East,GBR,Tax,,0,,GBP,245369,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR5,Brae,GBR,Tax,,0,,GBP,-1279874,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR6,Chestnut,GBR,Fees,,0,,GBP,78555,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR7,Eris/Ceres,GBR,Fees,,0,,GBP,409747,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR8,Galleon,GBR,Tax,,0,,GBP,-92672,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR9,Greater Markham Area,GBR,Fees,,0,,GBP,1067240,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR10,Greater York,GBR,Fees,,0,,GBP,61965,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR11,Morecambe Hub,GBR,Tax,,0,,GBP,12679666,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR11,Morecambe Hub,GBR,Fees,,0,,GBP,1128938,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR12,Ravenspurn,GBR,Tax,,0,,GBP,548555,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR13,Rose,GBR,Fees,,0,,GBP,288357,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR14,Seven Seas,GBR,Fees,,0,,GBP,364350,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR15,Statfjord,GBR,Tax,,0,,GBP,-14979950,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR15,Statfjord,GBR,Fees,,0,,GBP,19183,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR16,Trees,GBR,Fees,,0,,GBP,54362,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR17,Victor,GBR,Tax,,0,,GBP,-3419496,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR18,York,GBR,Fees,,0,,GBP,437673,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+GBR19,Exploration Licences,GBR,Fees,,0,,GBP,723336,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+NLD1,Entity  Level,NLD,Tax,,0,,GBP,-6649176,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+NLD2,Greater Markham Area,NLD,Fees,,0,,GBP,376754,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+NLD3,F3/FA,NLD,Fees,,0,,GBP,34017,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+NOR1,Entity Level,NOR,Tax,,0,,GBP,128185191,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+NOR2,Butch,NOR,Fees,,0,,GBP,955583,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+NOR3,Fogelberg,NOR,Fees,,0,,GBP,315155,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+NOR4,Frigg Gamma Delta,NOR,Fees,,0,,GBP,699269,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+NOR5,Ivory,NOR,Fees,,0,,GBP,3223190,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+NOR6,Vale,NOR,Fees,,0,,GBP,332561,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN1,Entity Level,CAN,Tax,,0,,GBP,12204240,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN2,Foothills Operating Area,CAN,Tax,,0,,GBP,203430,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN2,Foothills Operating Area,CAN,Fees,,0,,GBP,497729,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN2,Foothills Operating Area,CAN,Royalties,,0,,GBP,4838214,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN3,Hanlan Robb Operating Area,CAN,Tax,,0,,GBP,1674998,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN3,Hanlan Robb Operating Area,CAN,Fees,,0,,GBP,441677,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN3,Hanlan Robb Operating Area,CAN,Royalties,,0,,GBP,2349556,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN4,North Operating Area,CAN,Tax,,0,,GBP,2672383,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN4,North Operating Area,CAN,Fees,,0,,GBP,1198406,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN4,North Operating Area,CAN,Royalties,,0,,GBP,2115692,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN4,North Operating Area,CAN,Royalties,boe,80956,market price,GBP,2109647,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN5,South Operating Area,CAN,Tax,,0,,GBP,2183783,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN5,South Operating Area,CAN,Fees,,0,,GBP,2490419,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN5,South Operating Area,CAN,Royalties,,0,,GBP,512420,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN6,Peace River Arch Operating Area,CAN,Tax,,0,,GBP,1051183,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN6,Peace River Arch Operating Area,CAN,Fees,,0,,GBP,1206621,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+CAN6,Peace River Arch Operating Area,CAN,Royalties,,0,,GBP,2294171,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+TTO1,Block 1a,TTO,Fees,,0,,GBP,727147,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+TTO2,Block 1b,TTO,Fees,,0,,GBP,1059770,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+TTO3,Block 22,TTO,Fees,,0,,GBP,231249,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+TTO4,NCMA-4,TTO,Fees,,0,,GBP,1113080,Centrica Plc,03033654,,Extractives Report,2015-12-31,1,,17 Nov 2016
+TTO5,NCMA-1,TTO,Tax,,0,,GBP,3127764,Centrica Plc,03033654,Settled on behalf of Centrica by Ministry of Energy and Energy Affairs to the Ministry of Finance under terms of Production Sharing Contract,Extractives Report,2015-12-31,1,,17 Nov 2016

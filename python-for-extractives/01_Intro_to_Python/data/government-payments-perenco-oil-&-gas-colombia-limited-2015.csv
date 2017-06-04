@@ -1,0 +1,4 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+COL,DIAN,Tax,,0,,USD,1811000,Perenco Oil & Gas Colombia Limited,01789505,,Extractives Report,2015-12-31,1,,17 Oct 2016
+COL,ANH,Royalties,,0,,USD,636642,Perenco Oil & Gas Colombia Limited,01789505,Collected and marketed by Ecopetrol,Extractives Report,2015-12-31,1,,17 Oct 2016
+COL,Ecopetrol,ProductionEntitlements,BOE,157984,Average realised sales price during the year,USD,7583232,Perenco Oil & Gas Colombia Limited,01789505,"Payment in kind 157,984 BOE at average realised sales price for the year",Extractives Report,2015-12-31,1,,17 Oct 2016

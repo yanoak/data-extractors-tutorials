@@ -1,0 +1,10 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+UKR,State treasury: State budget,Royalties,,0,,USD,30049000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016
+RUS,State treasury: State budget,Royalties,,0,,USD,1445000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016
+HUN,State treasury: Local budget,Royalties,,0,,USD,1000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016
+UKR,State treasury: State budget,Tax,,0,,USD,696000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016
+HUN,State treasury: State budget,Tax,,0,,USD,-82000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016
+UKR,State treasury: State budget,Fees,,0,,USD,114000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016
+HUN,State treasury: State budget,Fees,,0,,USD,49000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016
+HUN,State treasury: Local budget,Fees,,0,,USD,3000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016
+SVK,State treasury: State budget,Fees,,0,,USD,173000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016

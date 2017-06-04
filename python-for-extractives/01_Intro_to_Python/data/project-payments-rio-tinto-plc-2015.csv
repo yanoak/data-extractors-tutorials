@@ -1,0 +1,52 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+AUS01,PILBARA,AUS,Tax,,0,,USD,1980216391,Rio Tinto PLC,00719885,Project amount includes payments / refunds between entities within tax groups where final payments to government are paid by the head / representative entity on behalf of the tax group.,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS01,PILBARA,AUS,Royalties,,0,,USD,1061871911,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS01,PILBARA,AUS,Fees,,0,,USD,1140210,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+CAN01,IRON ORE COMPANY OF CANADA,CAN,Tax,,0,,USD,937576,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+GIN01,SIMANDOU,GIN,Royalties,,0,,USD,52995,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+MNG01,OYU TOLGOI,MNG,Tax,,0,,USD,65951340,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+MNG01,OYU TOLGOI,MNG,Royalties,,0,,USD,111117141,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+MNG01,OYU TOLGOI,MNG,Fees,,0,,USD,8291136,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+USA01,KENNECOTT UTAH COPPER,USA,Tax,,0,,USD,-123217506,Rio Tinto PLC,00719885,Project amount includes payments / refunds between entities within tax groups where final payments to government are paid by the head / representative entity on behalf of the tax group.,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+USA01,KENNECOTT UTAH COPPER,USA,Royalties,,0,,USD,6024609,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+USA02,RESOLUTION COPPER,USA,Tax,,0,,USD,-13091752,Rio Tinto PLC,00719885,Project amount includes payments / refunds between entities within tax groups where final payments to government are paid by the head / representative entity on behalf of the tax group.,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+IDN01,GRASBERG,IDN,Tax,,0,,USD,-5781068,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+PER01,LA GRANJA,PER,Fees,,0,,USD,8900000,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS02,NEW SOUTH WALES COAL,AUS,Tax,,0,,USD,98131730,Rio Tinto PLC,00719885,Project amount includes payments / refunds between entities within tax groups where final payments to government are paid by the head / representative entity on behalf of the tax group.,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS02,NEW SOUTH WALES COAL,AUS,Royalties,,0,,USD,145160507,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS02,NEW SOUTH WALES COAL,AUS,Fees,,0,,USD,2961791,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS03,QUEENSLAND COAL,AUS,Tax,,0,,USD,-81073471,Rio Tinto PLC,00719885,Project amount includes payments / refunds between entities within tax groups where final payments to government are paid by the head / representative entity on behalf of the tax group.,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS03,QUEENSLAND COAL,AUS,Royalties,,0,,USD,66769590,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS03,QUEENSLAND COAL,AUS,Fees,,0,,USD,3863400,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS04,ARGYLE,AUS,Tax,,0,,USD,-84344195,Rio Tinto PLC,00719885,Project amount includes payments / refunds between entities within tax groups where final payments to government are paid by the head / representative entity on behalf of the tax group.,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS04,ARGYLE,AUS,Royalties,,0,,USD,11366316,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS04,ARGYLE,AUS,Fees,,0,,USD,764295,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+CAN02,DIAVIK,CAN,Tax,,0,,USD,63188312,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+CAN02,DIAVIK,CAN,Fees,,0,,USD,381740,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+NAM01,ROSSING,NAM,Royalties,,0,,USD,5033528,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+CAN03,RIO TINTO FER ET TITANE,CAN,Tax,,0,,USD,-2044705,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+MDG01,QIT MADAGASCAR MINERALS,MDG,Royalties,,0,,USD,569615,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+MDG01,QIT MADAGASCAR MINERALS,MDG,Fees,,0,,USD,109825,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+ZAF01,RICHARDS BAY MINERALS,ZAF,Tax,,0,,USD,75070420,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+ZAF01,RICHARDS BAY MINERALS,ZAF,Royalties,,0,,USD,15512451,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+USA03,US BORAX,USA,Tax,,0,,USD,35817238,Rio Tinto PLC,00719885,Project amount includes payments / refunds between entities within tax groups where final payments to government are paid by the head / representative entity on behalf of the tax group.,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+USA03,US BORAX,USA,Royalties,,0,,USD,240187,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS05,DAMPIER SALT,AUS,Tax,,0,,USD,13516130,Rio Tinto PLC,00719885,Project amount includes payments / refunds between entities within tax groups where final payments to government are paid by the head / representative entity on behalf of the tax group.,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS05,DAMPIER SALT,AUS,Royalties,,0,,USD,2413222,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS05,DAMPIER SALT,AUS,Fees,,0,,USD,515834,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+ZWE01,MUROWA,ZWE,Royalties,,0,,USD,3859594,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS06,GOVE,AUS,Tax,,0,,USD,13350942,Rio Tinto PLC,00719885,Project amount includes payments / refunds between entities within tax groups where final payments to government are paid by the head / representative entity on behalf of the tax group.,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS06,GOVE,AUS,Royalties,,0,,USD,29622808,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS06,GOVE,AUS,Fees,,0,,USD,2757307,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS07,WEIPA INCLUDING AMRUN,AUS,Tax,,0,,USD,-2702250,Rio Tinto PLC,00719885,Project amount includes payments / refunds between entities within tax groups where final payments to government are paid by the head / representative entity on behalf of the tax group.,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS07,WEIPA INCLUDING AMRUN,AUS,Royalties,,0,,USD,83506091,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUS07,WEIPA INCLUDING AMRUN,AUS,Fees,,0,,USD,1111735,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+ARGEXP01,EXPLORATION - ARGENTINA,ARG,Tax,,0,,USD,399739,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+AUSEXP01,EXPLORATION - AUSTRALIA,AUS,Tax,,0,,USD,-10608123,Rio Tinto PLC,00719885,Project amount includes payments / refunds between entities within tax groups where final payments to government are paid by the head / representative entity on behalf of the tax group.,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+BRAEXP01,EXPLORATION - BRAZIL,BRA,Tax,,0,,USD,354611,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+CHLEXP01,EXPLORATION - CHILE,CHL,Fees,,0,,USD,555753,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+COLEXP01,EXPLORATION - COLUMBIA,COL,Tax,,0,,USD,341011,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+PEREXP01,EXPLORATION - PERU,PER,Tax,,0,,USD,5989027,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+PEREXP01,EXPLORATION - PERU,PER,Fees,,0,,USD,208435,Rio Tinto PLC,00719885,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+USAEXP01,EXPLORATION - USA - KENNECOTT,USA,Tax,,0,,USD,-8113122,Rio Tinto PLC,00719885,Project amount includes payments / refunds between entities within tax groups where final payments to government are paid by the head / representative entity on behalf of the tax group.,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+USAEXP02,EXPLORATION - USA - OTHER,USA,Tax,,0,,USD,-1000000,Rio Tinto PLC,00719885,Project amount includes payments / refunds between entities within tax groups where final payments to government are paid by the head / representative entity on behalf of the tax group.,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016

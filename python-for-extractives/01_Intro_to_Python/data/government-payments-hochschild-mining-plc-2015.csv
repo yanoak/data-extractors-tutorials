@@ -1,0 +1,9 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+PER,Superintendencia Nacional de Administración Tributaria,Tax,,,,USD,3944634,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+PER,Superintendencia Nacional de Administración Tributaria,Royalties,,,,USD,2279027,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+PER,Instituto Geológico Minero y Metalúrgico,Fees,,,,USD,1537675,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+ARG,Tesorería General de la Provincia de Santa Cruz,Fees,,,,USD,200421,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+ARG,Consejo Agrario Provincial,Fees,,,,USD,1133307,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+ARG,Administración General de Ingresos Públicos,Tax,,,,USD,9881828,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+ARG,Rentas Generales de la Provincia de Santa Cruz,Royalties,,,,USD,4793480,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+CHL,Tesorería General de la República,Fees,,,,USD,235204,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016

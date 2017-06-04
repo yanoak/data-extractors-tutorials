@@ -1,0 +1,7 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+UKR,State treasury: state budget,Tax,USD,0,,USD,6834467,Ferrexpo PLC,05432915,,Extractives Report,2015-12-31,1,,28 Jun 2016
+UKR,State treasury: regional budget,Tax,USD,0,,USD,2852944,Ferrexpo PLC,05432915,,Extractives Report,2015-12-31,1,,28 Jun 2016
+UKR,State treasury: local budget,Tax,USD,0,,USD,2606581,Ferrexpo PLC,05432915,,Extractives Report,2015-12-31,1,,28 Jun 2016
+UKR,State treasury: state budget,Royalties,USD,0,,USD,11182388,Ferrexpo PLC,05432915,,Extractives Report,2015-12-31,1,,28 Jun 2016
+UKR,State treasury: regional budget,Royalties,USD,0,,USD,2530337,Ferrexpo PLC,05432915,,Extractives Report,2015-12-31,1,,28 Jun 2016
+UKR,State treasury: local budget,Royalties,USD,0,,USD,1153,Ferrexpo PLC,05432915,,Extractives Report,2015-12-31,1,,28 Jun 2016

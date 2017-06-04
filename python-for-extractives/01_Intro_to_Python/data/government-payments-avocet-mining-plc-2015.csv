@@ -1,0 +1,8 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+BFA,National,Royalties,,0,,USD,2094000,Avocet Mining PLC,03036214,Royalties,Extractives Report,2015-12-31,1,,16 Nov 2016
+BFA,National,Tax,,0,,USD,504000,Avocet Mining PLC,03036214,Corporations tax,Extractives Report,2015-12-31,1,,16 Nov 2016
+BFA,National,Tax,,0,,USD,1971000,Avocet Mining PLC,03036214,Fuel tax,Extractives Report,2015-12-31,1,,16 Nov 2016
+BFA,National,Tax,,0,,USD,16000,Avocet Mining PLC,03036214,Land tax,Extractives Report,2015-12-31,1,,16 Nov 2016
+BFA,National,Tax,,0,,USD,3000,Avocet Mining PLC,03036214,Permit tax,Extractives Report,2015-12-31,1,,16 Nov 2016
+GIN,National,Tax,,0,,USD,276000,Avocet Mining PLC,03036214,Permit tax,Extractives Report,2015-12-31,1,,16 Nov 2016
+GIN,National,Tax,,0,,USD,12000,Avocet Mining PLC,03036214,Land tax,Extractives Report,2015-12-31,1,,16 Nov 2016

@@ -1,0 +1,8 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+VIR,Vietnam,ProductionEntitlements,,0,,USD,158320000,Soco International PLC,03300821,,Extractives Report,2015-12-31,1,,13 Jul 2016
+VIR,Vietnam,Tax,,0,,USD,62618000,Soco International PLC,03300821,Joint Operating Company Project's tax payments reported on SOCO Net Working Interest Basis.,Extractives Report,2015-12-31,1,,13 Jul 2016
+VIR,Vietnam,Royalties,,0,,USD,17376000,Soco International PLC,03300821,,Extractives Report,2015-12-31,1,,13 Jul 2016
+VIR,Vietnam,Fees,,0,,USD,260000,Soco International PLC,03300821,,Extractives Report,2015-12-31,1,,13 Jul 2016
+COG,Republic of Congo,Fees,,0,,USD,100000,Soco International PLC,03300821,**Projects Operated by SOCO 100% of tax payments reported.,Extractives Report,2015-12-31,1,,13 Jul 2016
+COG,Republic of Congo,Infrastructure,,0,,USD,660000,Soco International PLC,03300821,,Extractives Report,2015-12-31,1,,13 Jul 2016
+COG,Democratic Republic of Congo,Fees,,0,,USD,1097000,Soco International PLC,03300821,**Projects Operated by SOCO 100% of tax payments reported.,Extractives Report,2015-12-31,1,,13 Jul 2016

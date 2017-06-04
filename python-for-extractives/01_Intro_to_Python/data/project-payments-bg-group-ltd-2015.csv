@@ -1,0 +1,50 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+PC001,Corporate,AUS,Fees,,0,,USD,793000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC001,QCLNG,AUS,Royalties,,0,,USD,2936000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC001,QCLNG,AUS,Fees,,0,,USD,12801000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC001,QCLNG,AUS,Infrastructure,,0,,USD,24195000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC002,Corporate,BOL,Tax,,0,,USD,61788000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC002,Haucareta,BOL,Fees,,0,,USD,1121000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC002,La Vertiente,BOL,Royalties,,0,,USD,13344000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC002,La Vertiente,BOL,Fees,,0,,USD,7369000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC003,Corporate,BRA,Tax,,0,,USD,70975000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC003,Barreirinhas Basin,BRA,Fees,,0,,USD,771000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC003,BM-S-9,BRA,Royalties,,0,,USD,196113000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC003,BM-S-11,BRA,Royalties,,0,,USD,341644000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC004,WDDM,EGY,ProductionEntitlements,in kind payments,16550000,prevailing market price,USD,440795000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC004,Rosetta,EGY,Tax,,0,,USD,14315000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC004,Rosetta,EGY,ProductionEntitlements,in kind payments,1880000,prevailing market price,USD,36224000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC005,Corporate,IND,Tax,,0,,USD,23502000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC005,Tapti,IND,Royalties,,0,,USD,2662000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC005,Panna-Mukhta,IND,Royalties,,0,,USD,52106000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC005,Panna-Mukhta,IND,ProductionEntitlements,,0,,USD,81145000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC006,Karachaganak,KAZ,Tax,,0,,USD,194629000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC007,L10A,KEN,Fees,,0,,USD,275000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC007,L10B,KEN,Fees,,0,,USD,253000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC008,Corporate,NOR,Tax,,0,,USD,-24642000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC008,PL373S,NOR,Fees,,0,,USD,768000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC009,Block 1,TZA,Fees,,0,,USD,311000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC009,Block 4,TZA,Fees,,0,,USD,226000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC010,Bongkot,THA,Tax,,0,,USD,160577000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC010,Bongkot,THA,Royalties,,0,,USD,102723000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC011,ECMA,TTO,Fees,,0,,USD,3384000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC011,ECMA,TTO,ProductionEntitlements,,0,,USD,109467000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC011,Central Block,TTO,Tax,,0,,USD,5333000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC011,Central Block,TTO,Royalties,,0,,USD,6405000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC011,Central Block,TTO,Fees,,0,,USD,2013000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC011,NCMA,TTO,ProductionEntitlements,,0,,USD,95818000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC011,NCMA,TTO,Tax,,0,,USD,6428000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC011,NCMA,TTO,Fees,,0,,USD,1343000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC012,Hasdrubal,TUN,Tax,,0,,USD,33098000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC012,Hasdrubal,TUN,Royalties,in kind payments,124000,prevailing market price,USD,4449000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC012,Hasdrubal,TUN,Royalties,,0,,USD,9231000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC012,Miskar,TUN,Tax,,0,,USD,33408000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC012,Miskar,TUN,Royalties,in kind payments,61000,prevailing market price,USD,2750000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC012,Miskar,TUN,Royalties,,0,,USD,18429000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC013,Corporate,GBR,Tax,,0,,USD,395000000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC013,Central North Sea,GBR,Fees,,0,,USD,339000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC013,Armada,GBR,Fees,,0,,USD,1547000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC013,J Block / Jade,GBR,Tax,,0,,USD,11462000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC014,Block 8,URY,Fees,,0,,USD,100000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC014,Block 9,URY,Fees,,0,,USD,100000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016
+PC014,Block 13,URY,Fees,,0,,USD,100000,BG Group Ltd,03690065,,Extractives Report,2015-12-31,1,,27 Jun 2016

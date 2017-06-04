@@ -1,0 +1,2 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+GBR,HMRC,Tax,GBP,0,N/A,GBP,310592913,Suncor Energy UK Limited,00972618,Corporation Tax & Supplementary Charge,Extractives Report,2015-12-31,1,,20 Dec 2016

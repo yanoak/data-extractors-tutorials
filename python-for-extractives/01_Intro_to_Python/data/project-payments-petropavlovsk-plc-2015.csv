@@ -1,0 +1,12 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+RUS1,Pioneer,RUS,Tax, ,0,Not assigned,USD,15006000,Petropavlovsk PLC,04343841,,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS2,Pokrovskiy,RUS,Tax,,0,Not assigned,USD,3898000,Petropavlovsk PLC,04343841,,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS3,JSC Pokrovskiy Rudnik,RUS,Tax, ,0,Not assigned,USD,23060000,Petropavlovsk PLC,04343841,,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS3,JSC Pokrovskiy Rudnik,RUS,Fees,,0,Not assigned,USD,502000,Petropavlovsk PLC,04343841,,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS4,Malomyr,RUS,Tax, ,0,Not assigned,USD,4360000,Petropavlovsk PLC,04343841,,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS4,Malomyr,RUS,Fees, ,0,Not assigned,USD,341000,Petropavlovsk PLC,04343841,,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS5,Albyn,RUS,Tax, ,0,Not assigned,USD,17135000,Petropavlovsk PLC,04343841,,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS5,Albyn,RUS,Fees, ,0,Not assigned,USD,142000,Petropavlovsk PLC,04343841,,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS6,Alluvial Operations,RUS,Tax, ,0,Not assigned,USD,374000,Petropavlovsk PLC,04343841,,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS6,Alluvial Operations,RUS,Fees, ,0,Not assigned,USD,16000,Petropavlovsk PLC,04343841,,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS7,Other,RUS,Fees, ,0,Not assigned,USD,79000,Petropavlovsk PLC,04343841,,Extractives Report,2015-12-31,1,,16 Jan 2017

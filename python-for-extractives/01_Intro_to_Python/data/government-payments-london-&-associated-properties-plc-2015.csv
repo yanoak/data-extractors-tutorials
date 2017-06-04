@@ -1,0 +1,2 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+ZAF,Republic of South Africa,Royalties,0,0,N/a,GBP,0,London & Associated Properties PLC,00341829,"No payments reach threshold. These relate to our subsidiary, a quoted company, Bisichi Mining PLC.",Payments to Government,2015-12-31,1,,23 Jun 2016

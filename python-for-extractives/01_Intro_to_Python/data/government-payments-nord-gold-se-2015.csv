@@ -1,0 +1,9 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+GIN,National Treasury (federal level),Tax,,,,USD,12399031,Nord Gold SE,SE000102,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,1,,16 Nov 2016
+GIN,Comité Préfectoral de Dévéloppement de Dinguiraye/ Siguiri (local level),Infrastructure,,,,USD,1200863,Nord Gold SE,SE000102,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,1,,16 Nov 2016
+BFA,Direction Générale du Trésor et de la Comptabilité Publique (federal level),Tax,,,,USD,16748958,Nord Gold SE,SE000102,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,1,,16 Nov 2016
+BFA,Direction Générale du Trésor et de la Comptabilité Publique (federal level),Dividends,,,,USD,2229771,Nord Gold SE,SE000102,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,1,,16 Nov 2016
+BFA,Direction Générale des Impots (federal level),Tax,,,,USD,21510745,Nord Gold SE,SE000102,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,1,,16 Nov 2016
+KAZ,State Revenue Committee of the Republic of Kazakhstan (federal level),Tax,,,,USD,9828257,Nord Gold SE,SE000102,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,1,,16 Nov 2016
+RUS,Federal Treasury of the Russian Federation (federal level),Tax,,,,USD,22428365,Nord Gold SE,SE000102,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,1,,16 Nov 2016
+RUS,Federal Treasury Departments (regional level),Tax,,,,USD,29921570,Nord Gold SE,SE000102,,REPORT ON PAYMENTS TO GOVERNMENTS,2015-12-31,1,,16 Nov 2016

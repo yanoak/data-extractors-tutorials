@@ -1,0 +1,8 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+GBR001,Magnus Project,GBR,Tax,,0,,USD,15156689,JX Nippon Exploration and Production (U.K.) Limited,03288689,,Extractives Report,2015-12-31,1,,06 Dec 2016
+GBR002,Brae Project,GBR,Tax,,0,,USD,363435,JX Nippon Exploration and Production (U.K.) Limited,03288689,,Extractives Report,2015-12-31,1,,06 Dec 2016
+GBR003,East Brae Project,GBR,Tax,,0,,USD,435043,JX Nippon Exploration and Production (U.K.) Limited,03288689,,Extractives Report,2015-12-31,1,,06 Dec 2016
+GBR004,Licence P1850 Project,GBR,Fees,,0,,USD,96551,JX Nippon Exploration and Production (U.K.) Limited,03288689,,Extractives Report,2015-12-31,1,,06 Dec 2016
+GBR005,Licence P2016 Project,GBR,Fees,,0,,USD,10773,JX Nippon Exploration and Production (U.K.) Limited,03288689,,Extractives Report,2015-12-31,1,,06 Dec 2016
+GBR006,Licence P2024 Project,GBR,Fees,,0,,USD,114041,JX Nippon Exploration and Production (U.K.) Limited,03288689,,Extractives Report,2015-12-31,1,,06 Dec 2016
+GBR007,Licence P312 Project,GBR,Fees,,0,,USD,109663,JX Nippon Exploration and Production (U.K.) Limited,03288689,,Extractives Report,2015-12-31,1,,06 Dec 2016

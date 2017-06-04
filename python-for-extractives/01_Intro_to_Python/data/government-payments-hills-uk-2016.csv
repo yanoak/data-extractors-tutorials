@@ -1,0 +1,4 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+GBR,National government,Tax,,0,,GBP,1288000,Hills UK,00530623,,Report on Payments to Governments,2016-04-30,1,,08 Mar 2017
+GBR,Regional/ local government,Tax,,0,,GBP,1050662,Hills UK,00530623,,Report on Payments to Governments,2016-04-30,1,,08 Mar 2017
+GBR,Regional/ local government,Infrastructure,,0,,GBP,668973,Hills UK,00530623,,Report on Payments to Governments,2016-04-30,1,,08 Mar 2017

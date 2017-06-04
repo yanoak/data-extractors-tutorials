@@ -1,0 +1,7 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+GB001,Alba,GBR,Tax,,0,,GBP,-3726521,Chevron North Sea Ltd,01546623,,Extractives Report,2015-12-31,1,,15 Nov 2016
+GB002,Chevron North Sea Limited,GBR,Tax,,0,,GBP,-66356970,Chevron North Sea Ltd,01546623,,Extractives Report,2015-12-31,1,,15 Nov 2016
+GB003,West of Shetland,GBR,Fees,,0,,GBP,726507,Chevron North Sea Ltd,01546623,,Extractives Report,2015-12-31,1,,15 Nov 2016
+GB004,Central North Sea,GBR,Fees,,0,,GBP,131002,Chevron North Sea Ltd,01546623,,Extractives Report,2015-12-31,1,,15 Nov 2016
+GB005,Producing Assets,GBR,Fees,,0,,GBP,152116,Chevron North Sea Ltd,01546623,,Extractives Report,2015-12-31,1,,15 Nov 2016
+GB006,Non-producing Asets,GBR,Fees,,0,,GBP,13797,Chevron North Sea Ltd,01546623,,Extractives Report,2015-12-31,1,,15 Nov 2016

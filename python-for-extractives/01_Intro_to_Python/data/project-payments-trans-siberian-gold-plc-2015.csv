@@ -1,0 +1,3 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+ASCH,Asacha Mine,RUS,Royalties,,0,,USD,2679904,Trans-Siberian Gold plc,01067991,,Extractives Report,2015-12-31,1,,30 Nov 2016
+ASCH,Asacha Mine,RUS,Fees,,0,,USD,618234,Trans-Siberian Gold plc,01067991,,Extractives Report,2015-12-31,1,,30 Nov 2016

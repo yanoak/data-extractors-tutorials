@@ -1,0 +1,3 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+ADMA,Abu Dhabi Marine Areas,ARE,Royalties,,0,,USD,1220299291,Abu Dhabi Marine Areas Limited,00533446,,Government Payments,2015-12-31,1,,05 Oct 2016
+ADMA,Abu Dhabi Marine Areas,ARE,Tax,,0,,USD,2960318035,Abu Dhabi Marine Areas Limited,00533446,This tax was paid as agent on behalf of our shareholders,Government Payments,2015-12-31,1,,05 Oct 2016

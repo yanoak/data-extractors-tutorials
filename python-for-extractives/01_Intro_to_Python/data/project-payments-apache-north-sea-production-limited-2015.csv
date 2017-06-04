@@ -1,0 +1,8 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+429,Apache North Sea Production Limited,GBR,Tax,KBOE,0,Not assigned,GBP,2360528,Apache North Sea Production Limited,07720972,,Extractives Report,2015-12-31,1,,17 Jan 2017
+420,Apache North Sea Limited,GBR,Tax,KBOE,0,Not assigned,GBP,93788551,Apache North Sea Production Limited,07720972,,Extractives Report,2015-12-31,1,,17 Jan 2017
+434,Apache Beryl I Limited,GBR,Tax,KBOE,0,Not assigned,GBP,9230020,Apache North Sea Production Limited,07720972,,Extractives Report,2015-12-31,1,,17 Jan 2017
+436,Apache Beryl III Limited,GBR,Tax,KBOE,0,Not assigned,GBP,-1201890,Apache North Sea Production Limited,07720972,,Extractives Report,2015-12-31,1,,17 Jan 2017
+437,Beryl North Sea II Limited,GBR,Tax,KBOE,0,Not assigned,GBP,-3213864,Apache North Sea Production Limited,07720972,,Extractives Report,2015-12-31,1,,17 Jan 2017
+420,Apache North Sea Limited,GBR,Fees,KBOE,0,Not assigned,GBP,215109,Apache North Sea Production Limited,07720972,,Extractives Report,2015-12-31,1,,17 Jan 2017
+434,Apache Beryl I Limited,GBR,Fees,KBOE,0,Not assigned,GBP,434428,Apache North Sea Production Limited,07720972,,Extractives Report,2015-12-31,1,,17 Jan 2017

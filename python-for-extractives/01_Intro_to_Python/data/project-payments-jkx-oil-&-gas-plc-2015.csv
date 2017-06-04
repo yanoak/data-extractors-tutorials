@@ -1,0 +1,10 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+,Novo-Nikolaevskoye Complex,UKR,Royalties,,0,,USD,20117000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016
+,Novo-Nikolaevskoye Complex,UKR,Fees,,0,,USD,114000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016
+,Elizavetovskoye field,UKR,Royalties,,0,,USD,9932000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016
+,Koshekhablskoye field,RUS,Royalties,,0,,USD,1445000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016
+,Appraisal and exploration,HUN,Royalties,,0,,USD,1000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016
+,Appraisal and exploration,HUN,Tax,,0,,USD,-82000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016
+,Appraisal and exploration,HUN,Fees,,0,,USD,52000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016
+,Payment at an entity level,UKR,Tax,,0,,USD,696000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016
+,Exploration,SVK,Fees,,0,,USD,173000,JKX Oil & Gas plc,03050645,,Extractives Report,2015-12-31,1,,10 Nov 2016

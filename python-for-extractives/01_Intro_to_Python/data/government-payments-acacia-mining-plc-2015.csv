@@ -1,0 +1,9 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+TZA,Name for Tanzania National Recipient,Royalties,,0,,USD,38059000,Acacia Mining PLC,07123187,,Extractives Report,2015-12-31,1,,06 Dec 2016
+TZA,Name for Tanzania National Recipient,Fees,,0,,USD,996000,Acacia Mining PLC,07123187,,Extractives Report,2015-12-31,1,,06 Dec 2016
+TZA,Name for Tanzania National Recipient,Tax,,0,,USD,85130000,Acacia Mining PLC,07123187,,Extractives Report,2015-12-31,1,,06 Dec 2016
+TZA,Name for Tanzania Local Dar es Salaam Recipient,Tax,,0,,USD,2234000,Acacia Mining PLC,07123187,,Extractives Report,2015-12-31,1,,06 Dec 2016
+KEN,Name for Kenya National Recipient,Fees,,0,,USD,66000,Acacia Mining PLC,07123187,,Extractives Report,2015-12-31,1,,06 Dec 2016
+KEN,Name for Kenya National Recipient,Tax,,0,,USD,578000,Acacia Mining PLC,07123187,,Extractives Report,2015-12-31,1,,06 Dec 2016
+ZAF,Name for South Africa National Recipient,Tax,,0,,USD,1013000,Acacia Mining PLC,07123187,,Extractives Report,2015-12-31,1,,06 Dec 2016
+GBR,Name for United Kingdom National Recipient,Tax,,0,,USD,4049000,Acacia Mining PLC,07123187,,Extractives Report,2015-12-31,1,,06 Dec 2016

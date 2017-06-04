@@ -1,0 +1,9 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+RUS,Federal,Tax,,0,,USD,16492000,Petropavlovsk PLC,04343841,,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS,Regional - Amur Region,Tax,,0,,USD,47341000,Petropavlovsk PLC,04343841,,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS,Regional - Amur Region,Fees,,0,,USD,1001000,Petropavlovsk PLC,04343841,,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS,Regional - Other,Fees,,0,,USD,79000,Petropavlovsk PLC,04343841,,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS,Federal,Tax,,0,,USD,642000,Petropavlovsk PLC,04343841,Discontinued operations - ceased being a subsidiary of Petropavlovsk Group and became an associate on 7 August 2015,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS,Federal,Fees,,0,,USD,84000,Petropavlovsk PLC,04343841,Discontinued operations - ceased being a subsidiary of Petropavlovsk Group and became an associate on 7 August 2015,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS,Regional - Amur Region,Tax,,0,,USD,152000,Petropavlovsk PLC,04343841,Discontinued operations - ceased being a subsidiary of Petropavlovsk Group and became an associate on 7 August 2015,Extractives Report,2015-12-31,1,,16 Jan 2017
+RUS,Regional - Amur Region,Fees,,0,,USD,45000,Petropavlovsk PLC,04343841,Discontinued operations - ceased being a subsidiary of Petropavlovsk Group and became an associate on 7 August 2015,Extractives Report,2015-12-31,1,,16 Jan 2017

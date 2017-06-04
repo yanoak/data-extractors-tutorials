@@ -1,0 +1,7 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+GB001,CENTRAL & NORTHERN NORTH SEA,GBR,Tax,,0,,GBP,-134632374,Esso Exploration and Production UK Limited,00207426,ExxonMobil divested its interest in the Dunlin field. In 2015 ExxonMobil received a Petroleum Revenue Tax refund amounting to £67.6M which was subsequently passed on to the new owners net of any associated tax liability.,Extractives Report,2015-12-31,1,"All of the entities' interests in the UK are operated by others.
+Payments are reported at an appropriate project level except for payments that are not attributable to a specific project which are reported at entity level.",30 Nov 2016
+GB002,SOUTHERN NORTH SEA,GBR,Tax,,0,,GBP,35847865,Esso Exploration and Production UK Limited,00207426,,Extractives Report,2015-12-31,1,"All of the entities' interests in the UK are operated by others.
+Payments are reported at an appropriate project level except for payments that are not attributable to a specific project which are reported at entity level.",30 Nov 2016
+GB003,Esso Exploration and Production UK Limited,GBR,Tax,,0,,GBP,-75983656,Esso Exploration and Production UK Limited,00207426,,Extractives Report,2015-12-31,1,"All of the entities' interests in the UK are operated by others.
+Payments are reported at an appropriate project level except for payments that are not attributable to a specific project which are reported at entity level.",30 Nov 2016

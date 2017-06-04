@@ -1,0 +1,4 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+VNM,Government Treasury BARIA VUNG TAU,Tax,,0,,USD,3556862,Perenco Overseas Holdings Limited,07517072,,Extractives Report,2015-12-31,1,,17 Oct 2016
+VNM,Government Treasury HCMC,Tax,,0,,USD,98407194,Perenco Overseas Holdings Limited,07517072,,Extractives Report,2015-12-31,1,,17 Oct 2016
+VNM,Petrovietnam Exploration Production Corporation Ltd,Royalties,,0,,USD,29116040,Perenco Overseas Holdings Limited,07517072,,Extractives Report,2015-12-31,1,,17 Oct 2016

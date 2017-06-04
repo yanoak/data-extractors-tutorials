@@ -1,0 +1,11 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+Akulka Gas,Akulka Gas,KAZ,Fees,,0,Not assigned,USD,103776,Tethys Petroleum Limited,,,Extractive Industry Reporting,2015-12-31,2,,01 Sep 2016
+Akulka Gas,Akulka Gas,KAZ,Infrastructure,,0,Not assigned,USD,32566,Tethys Petroleum Limited,,,Extractive Industry Reporting,2015-12-31,2,,01 Sep 2016
+Akulka Gas,Akulka Gas,KAZ,Tax,,0,Not assigned,USD,58457,Tethys Petroleum Limited,,,Extractive Industry Reporting,2015-12-31,2,,01 Sep 2016
+Akulka Oil,Akulka Oil,KAZ,Infrastructure,,0,Not assigned,USD,54276,Tethys Petroleum Limited,,,Extractive Industry Reporting,2015-12-31,2,,01 Sep 2016
+Akulka Oil,Akulka Oil,KAZ,Tax,,0,Market price,USD,718038,Tethys Petroleum Limited,,,Extractive Industry Reporting,2015-12-31,2,,01 Sep 2016
+Kyzloi Gas,Kyzloi Gas,KAZ,Bonuses,Cubic metre,1220000,Market price,USD,306171,Tethys Petroleum Limited,,,Extractive Industry Reporting,2015-12-31,2,,01 Sep 2016
+Kyzloi Gas,Kyzloi Gas,KAZ,Infrastructure,,0,Not assigned,USD,54276,Tethys Petroleum Limited,,,Extractive Industry Reporting,2015-12-31,2,,01 Sep 2016
+Kyzloi Gas,Kyzloi Gas,KAZ,Tax,,0,Not assigned,USD,25333,Tethys Petroleum Limited,,,Extractive Industry Reporting,2015-12-31,2,,01 Sep 2016
+Kul-Bas,Kul-Bas,KAZ,Infrastructure,,0,Not assigned,USD,21711,Tethys Petroleum Limited,,,Extractive Industry Reporting,2015-12-31,2,,01 Sep 2016
+Bokhtar PSC,Bokhtar PSC,TJK,Tax,,0,Not assigned,USD,130287,Tethys Petroleum Limited,,,Extractive Industry Reporting,2015-12-31,2,,01 Sep 2016

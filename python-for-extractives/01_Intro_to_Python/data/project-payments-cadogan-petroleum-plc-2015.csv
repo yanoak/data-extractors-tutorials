@@ -1,0 +1,5 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+0,Debeslavetska Production licence area,UKR,Tax,0,0,0,USD,765099,Cadogan Petroleum PLC,05718406,0,Extractives Report,2015-12-31,2,-,29 Nov 2016
+0,Monastyretska licence area,UKR,Tax,0,0,0,USD,241227,Cadogan Petroleum PLC,05718406,0,Extractives Report,2015-12-31,2,-,29 Nov 2016
+0,Cheremkhivska Production licence area,UKR,Tax,0,0,0,USD,193346,Cadogan Petroleum PLC,05718406,0,Extractives Report,2015-12-31,2,-,29 Nov 2016
+0,Slobodo-Rungurska licence area,UKR,Tax,0,0,0,USD,5000,Cadogan Petroleum PLC,05718406,0,Extractives Report,2015-12-31,2,-,29 Nov 2016

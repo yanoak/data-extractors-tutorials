@@ -1,0 +1,8 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+KAZ,Uralsk Government revenue Board,ProductionEntitlements,-,0,-,USD,6985642,Nostrum Oil & Gas PLC,08717287,-,Extractives Report,2015-12-31,1,-,08 Aug 2016
+KAZ,Uralsk Government revenue Board,Tax,-,0,-,USD,39394305,Nostrum Oil & Gas PLC,08717287,-,Extractives Report,2015-12-31,1,-,08 Aug 2016
+KAZ,Uralsk Government revenue Board,Royalties,-,0,-,USD,17142173,Nostrum Oil & Gas PLC,08717287,-,Extractives Report,2015-12-31,1,-,08 Aug 2016
+KAZ,Uralsk Government revenue Board,Fees,-,0,-,USD,1030928,Nostrum Oil & Gas PLC,08717287,-,Extractives Report,2015-12-31,1,-,08 Aug 2016
+KAZ,Uralsk Government revenue Board,Infrastructure,-,0,-,USD,300000,Nostrum Oil & Gas PLC,08717287,-,Extractives Report,2015-12-31,1,-,08 Aug 2016
+KAZ,Zelenov region Government revenue Board,Tax,-,0,-,USD,1300964,Nostrum Oil & Gas PLC,08717287,-,Extractives Report,2015-12-31,1,-,08 Aug 2016
+KAZ,West Kazakhstan region Department of Public revenues,Infrastructure,-,0,-,USD,300000,Nostrum Oil & Gas PLC,08717287,-,Extractives Report,2015-12-31,1,-,08 Aug 2016

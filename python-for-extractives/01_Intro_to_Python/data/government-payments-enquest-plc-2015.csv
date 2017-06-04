@@ -1,0 +1,9 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+MYS,PETRONAS (PETROLIAM NASIONAL BERHAD),ProductionEntitlements,BOE,996805,Article Price,USD,47492425,EnQuest PLC,07140891,Payment in kind for 996805 boe at article price,Extractives Report,2015-12-31,1,,30 Jun 2016
+MYS,PETRONAS (PETROLIAM NASIONAL BERHAD),Tax,0,0,,USD,8175125,EnQuest PLC,07140891,Supplementary and research cess payments,Extractives Report,2015-12-31,1,,30 Jun 2016
+MYS,MALAYSIAN INLAND REVENUE BOARD,Tax,0,0,,USD,7766461,EnQuest PLC,07140891,Corporation and petroleum income tax,Extractives Report,2015-12-31,1,,30 Jun 2016
+MYS,PETRONAS (PETROLIAM NASIONAL BERHAD),Royalties,0,0,,USD,1299597,EnQuest PLC,07140891,,Extractives Report,2015-12-31,1,,30 Jun 2016
+MYS,PETRONAS (PETROLIAM NASIONAL BERHAD),Infrastructure,0,0,,USD,100000,EnQuest PLC,07140891,Education commitment payment,Extractives Report,2015-12-31,1,,30 Jun 2016
+GBR,HM REVENUE AND CUSTOMS,Tax,0,0,,USD,-3820535,EnQuest PLC,07140891,Payments net of refunds,Extractives Report,2015-12-31,1,,30 Jun 2016
+NOR,SKATTEETATEN,Tax,0,0,,USD,-2924275,EnQuest PLC,07140891,Exploration refund,Extractives Report,2015-12-31,1,,30 Jun 2016
+GBR,DEPARTMENT OF ENERGY AND CLIMATE CHANGE,Fees,0,0,,USD,3531169,EnQuest PLC,07140891,,Extractives Report,2015-12-31,1,,30 Jun 2016

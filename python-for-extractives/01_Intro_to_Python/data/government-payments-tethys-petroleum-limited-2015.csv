@@ -1,0 +1,6 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+KAZ,Treasury Committee of the Ministry of Finance of Kazakhstan,Bonuses,Cubic metre,1220000,Market price,USD,306171,Tethys Petroleum Limited,,,Extractive Industry Reporting,2015-12-31,2,,01 Sep 2016
+KAZ,Treasury Committee of the Ministry of Finance of Kazakhstan,Fees,,0,Not assigned,USD,103776,Tethys Petroleum Limited,,,Extractive Industry Reporting,2015-12-31,2,,01 Sep 2016
+KAZ,Treasury Committee of the Ministry of Finance of Kazakhstan,Infrastructure,,0,Not assigned,USD,162829,Tethys Petroleum Limited,,,Extractive Industry Reporting,2015-12-31,2,,01 Sep 2016
+KAZ,Treasury Committee of the Ministry of Finance of Kazakhstan,Tax,,0,Not assigned,USD,801828,Tethys Petroleum Limited,,,Extractive Industry Reporting,2015-12-31,2,,01 Sep 2016
+TJK,Tajikistan Tax Authority,Tax,,0,Not assigned,USD,130287,Tethys Petroleum Limited,,,Extractive Industry Reporting,2015-12-31,2,,01 Sep 2016

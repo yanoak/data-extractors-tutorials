@@ -1,0 +1,8 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+GBR001,Corporate,GBR,Tax,,0,,GBP,31216818,CONOCOPHILLIPS (U.K.) LIMITED,00524868,,Extractives Report,2015-12-31,1,,10 Nov 2016
+GBR002,Operated - Central North Sea,GBR,Fees,,0,,GBP,927534,CONOCOPHILLIPS (U.K.) LIMITED,00524868,,Extractives Report,2015-12-31,1,,10 Nov 2016
+GBR003,Operated - Southern North Sea,GBR,Tax,,0,,GBP,-16521396,CONOCOPHILLIPS (U.K.) LIMITED,00524868,,Extractives Report,2015-12-31,1,,10 Nov 2016
+GBR003,Operated - Southern North Sea,GBR,Fees,,0,,GBP,3418223,CONOCOPHILLIPS (U.K.) LIMITED,00524868,,Extractives Report,2015-12-31,1,,10 Nov 2016
+GBR005,West of Shetland,GBR,Fees,,0,,GBP,65843,CONOCOPHILLIPS (U.K.) LIMITED,00524868,,Extractives Report,2015-12-31,1,,10 Nov 2016
+GBR006,Non Operated - Central North Sea and Southern North Sea,GBR,Tax,,0,,GBP,-361287,CONOCOPHILLIPS (U.K.) LIMITED,00524868,,Extractives Report,2015-12-31,1,,10 Nov 2016
+GBR007,Dunlin (former owner),GBR,Tax,,0,,GBP,-5365824,CONOCOPHILLIPS (U.K.) LIMITED,00524868,,Extractives Report,2015-12-31,1,,10 Nov 2016

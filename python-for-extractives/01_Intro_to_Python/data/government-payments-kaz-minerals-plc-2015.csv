@@ -1,0 +1,11 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+KAZ,Kazakhstan State Revenue Committee,Tax,,,,USD,33834,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+KAZ,Kazakhstan State Revenue Committee,Royalties,,,,USD,56595,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+KAZ,Kazakhstan State Revenue Committee,Tax,,,,USD,12594,KAZ Minerals PLC,05180783,thousands. withholding taxes,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+KAZ,Kazakhstan State Revenue Committee,Fees,,,,USD,1111,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+KAZ,Kazakhstan Local Authorities,Infrastructure,,,,USD,14321,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+KGZ,Kyrgyzstan State Tax Administration,Royalties,,,,USD,1007,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+KGZ,Kyrgyzstan State Tax Administration,Tax,,,,USD,137,KAZ Minerals PLC,05180783,thousands. withholding taxes,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+KGZ,Kyrgyzstan Local Authority - Alabuka Region,Infrastructure,,,,USD,430,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+GBR,United Kingdom HMRC,Tax,,,,USD,6364,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016
+HKG,Hong Kong Inland Revenue Department,Tax,,,,USD,145,KAZ Minerals PLC,05180783,thousands,Report on Payments to Governments,2015-12-31,1,,28 Nov 2016

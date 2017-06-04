@@ -1,0 +1,19 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+CIE,Cienega,MEX,Tax,,0,,USD,2083391,FRESNILLO PLC,06344120,,Extractives Report,2015-12-31,1,,16 Jun 2016
+CIE,Cienega,MEX,Fees,,0,,USD,1886858,FRESNILLO PLC,06344120,,Extractives Report,2015-12-31,1,,16 Jun 2016
+FRE,Fresnillo,MEX,Tax,,0,,USD,49989,FRESNILLO PLC,06344120,,Extractives Report,2015-12-31,1,,16 Jun 2016
+FRE,Fresnillo,MEX,Fees,,0,,USD,6958611,FRESNILLO PLC,06344120,,Extractives Report,2015-12-31,1,,16 Jun 2016
+HER,Herradura / Nochebuena,MEX,Tax,,0,,USD,8739477,FRESNILLO PLC,06344120,,Extractives Report,2015-12-31,1,,16 Jun 2016
+HER,Herradura / Nochebuena,MEX,Fees,,0,,USD,7890079,FRESNILLO PLC,06344120,,Extractives Report,2015-12-31,1,,16 Jun 2016
+SJU,San Julian,MEX,Fees,,0,,USD,1732203,FRESNILLO PLC,06344120,,Extractives Report,2015-12-31,1,,16 Jun 2016
+SJU,San Julian,MEX,Infrastructure,,0,,USD,1299425,FRESNILLO PLC,06344120,,Extractives Report,2015-12-31,1,,16 Jun 2016
+SAU,Saucito,MEX,Tax,,0,,USD,-14389389,FRESNILLO PLC,06344120,"Tax payments made in 2015 of USD$ 32,569,187  to the Ministry of Finance and Public Credit net of USD$ 48,695,152 refund received in 2015; plus USD$ 996,080 corresponding to the special mining right (7.5% on taxable profit) and USD$ 740,496 corresponding to extraordinary mining right (0.5% on income result from sales of gold, silver and platinum), these last two paid to the Ministry of Economics.",Extractives Report,2015-12-31,1,,16 Jun 2016
+SAU,Saucito,MEX,Fees,,0,,USD,5236547,FRESNILLO PLC,06344120,,Extractives Report,2015-12-31,1,,16 Jun 2016
+CMF,"Comercializadora de Metales Fresnillo, S.A. de C.V.",MEX,Tax,,0,,USD,1322321,FRESNILLO PLC,06344120,,Extractives Report,2015-12-31,1,,16 Jun 2016
+CMT,"Compañía Minera Las Torres, S.A. de C.V.",MEX,Tax,,0,,USD,-456480,FRESNILLO PLC,06344120,"Tax payments made in 2015 of USD$ 305,435  to the Ministry of Finance and Public Credit net of USD$ 761,915 refund received in 2015.",Extractives Report,2015-12-31,1,,16 Jun 2016
+EMP,Exploraciones Mineras Parreña S.A. De C.V.,MEX,Tax,,0,,USD,-7880944,FRESNILLO PLC,06344120,"Tax payments made in 2015 of USD$ 5,193,601  to the Ministry of Finance and Public Credit net of USD$ 13,074,545 refund received in 2015.",Extractives Report,2015-12-31,1,,16 Jun 2016
+FPL,Fresnillo plc,MEX,Tax,,0,,USD,2270438,FRESNILLO PLC,06344120,,Extractives Report,2015-12-31,1,,16 Jun 2016
+OPF,"Operaciones Fresnillo, S.A. de C.V.",MEX,Tax,,0,,USD,1073672,FRESNILLO PLC,06344120,,Extractives Report,2015-12-31,1,,16 Jun 2016
+SAF,"Servicios Administrativos Fresnillo, S.A. de C.V.",MEX,Tax,,0,,USD,313429,FRESNILLO PLC,06344120,,Extractives Report,2015-12-31,1,,16 Jun 2016
+SEF,Servicios de Exploracion Fresnillo S.A. De C.V.,MEX,Tax,,0,,USD,267462,FRESNILLO PLC,06344120,,Extractives Report,2015-12-31,1,,16 Jun 2016
+FPE,"Fresnillo Perú, S.A.C.                                                           ",PER,Fees,,0,,USD,1417328,FRESNILLO PLC,06344120,,Extractives Report,2015-12-31,1,,16 Jun 2016

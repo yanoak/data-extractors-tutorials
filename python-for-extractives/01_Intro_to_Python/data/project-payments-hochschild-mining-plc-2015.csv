@@ -1,0 +1,12 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+00,Compañía Minera Ares S.A.C.,PER,Tax,,,,USD,3944634,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+00,Compañía Minera Ares S.A.C.,PER,Royalties,,,,USD,2279027,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+00,Compañía Minera Ares S.A.C.,PER,Fees,,,,USD,620955,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+00,Arcata,PER,Fees,,,,USD,181475,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+00,Ares,PER,Fees,,,,USD,196765,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+00,Inmaculada ,PER,Fees,,,,USD,167319,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+00,Selene,PER,Fees,,,,USD,371161,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+00,Minera Santa Cruz S.A.,ARG,Tax,,,,USD,9881828,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+00,Minera Santa Cruz S.A.,ARG,Royalties,,,,USD,4793480,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+00,Minera Santa Cruz S.A.,ARG,Fees,,,,USD,1333728,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016
+00,Andina Minerals Chile Ltd,CHL,Fees,,,,USD,235204,Hochschild Mining plc,05777693,,Extractive Industry Reporting,2015-12-31,1,,29 Jun 2016

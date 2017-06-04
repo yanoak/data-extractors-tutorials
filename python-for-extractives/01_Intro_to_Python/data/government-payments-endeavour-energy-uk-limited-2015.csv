@@ -1,0 +1,4 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+GBR,Department of Energy and Climate Change,Fees,,0,,GBP,645745,Endeavour Energy UK Limited,05030838,,Extractives Report,2015-12-31,1,,30 Nov 2016
+GBR,Oil and Gas Authority,Fees,,0,,GBP,135487,Endeavour Energy UK Limited,05030838,,Extractives Report,2015-12-31,1,,30 Nov 2016
+GBR,HM Revenue & Customs,Tax,,0,,GBP,11066119,Endeavour Energy UK Limited,05030838,,Extractives Report,2015-12-31,1,,30 Nov 2016

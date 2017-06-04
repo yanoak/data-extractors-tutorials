@@ -1,0 +1,5 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+CHL,Government of Chile,Tax,,0,,USD,271339000,Antofagasta plc,01627889,,Extractive Industry Reporting,2015-12-31,1,,25 Nov 2016
+CHL,Government of Chile,Fees,,0,,USD,6549000,Antofagasta plc,01627889,,Extractive Industry Reporting,2015-12-31,1,,25 Nov 2016
+USA,Government of United States,Fees,,0,,USD,53000,Antofagasta plc,01627889,,Extractive Industry Reporting,2015-12-31,1,,25 Nov 2016
+USA,State of Minnesota,Fees,,0,,USD,210000,Antofagasta plc,01627889,,Extractive Industry Reporting,2015-12-31,1,,25 Nov 2016

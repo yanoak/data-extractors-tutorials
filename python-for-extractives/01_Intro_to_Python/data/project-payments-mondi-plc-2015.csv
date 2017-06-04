@@ -1,0 +1,3 @@
+ProjectCode,ProjectName,CountryCodeList,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+SYK,OJSC Mondi Syktyvkar,RUS,Fees,,0,,EUR,612000,MONDI PLC,06209386,Licence Fees,Extractive Industry Reporting,2015-12-31,1,,28 Jun 2016
+SYK,OJSC Mondi Syktyvkar,RUS,Tax,,0,,EUR,97000,MONDI PLC,06209386,Tax Payment,Extractive Industry Reporting,2015-12-31,1,,28 Jun 2016

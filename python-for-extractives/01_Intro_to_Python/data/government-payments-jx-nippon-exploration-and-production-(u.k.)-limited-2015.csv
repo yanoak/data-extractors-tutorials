@@ -1,0 +1,4 @@
+CountryCode,Government,PaymentType,UnitMeasure,Volume,ValuationMethod,Currency,Amount,CompanyName,CompanyNumber,Notes,ReportName,ReportEndDate,Version,ReportNotes,FilingDate
+GBR,Name for Department of Energy and Climate Change,Fees,,0,,USD,314160,JX Nippon Exploration and Production (U.K.) Limited,03288689,,Extractives Report,2015-12-31,1,,06 Dec 2016
+GBR,Name for Oil and Gas Authority,Fees,,0,,USD,16867,JX Nippon Exploration and Production (U.K.) Limited,03288689,,Extractives Report,2015-12-31,1,,06 Dec 2016
+GBR,Name for HM Revenue & Customs,Tax,,0,,USD,15955168,JX Nippon Exploration and Production (U.K.) Limited,03288689,,Extractives Report,2015-12-31,1,,06 Dec 2016
